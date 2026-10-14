@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi C. törvény a pénzügyi közvetítőrendszert érintő törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-12-24",
   "url": "https://njt.hu/jogszabaly/2025-100-00-00",
-  "description": "a pénzügyi közvetítőrendszert érintő törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -161,7 +160,7 @@
       "provision_ref": "s26",
       "section": "26",
       "title": "26. §",
-      "content": "26. § (1) (2) (3) (4)"
+      "content": "26. § (1) (2) (3) (4) A Tpt. 12/B. §-a a következő (11)–(16) bekezdéssel egészül ki: „(11) A (10) bekezdésben meghatározott esetben a kibocsátó a 7. § (2) bekezdése szerinti okirat, illetve vállalati kötvény módosítása esetén a 8. § (1) bekezdése szerinti új okirat mellett a központi értéktárnál letétbe helyezi a garanciavállaló nyilatkozat, illetve a garanciaszerződés egy eredeti példányát, a kötvényen már feltüntetett garancia visszavonása és új garanciavállaló nyilatkozat kiállítása, illetve a garanciaszerződés módosítása esetén az új garanciavállaló nyilatkozat, illetve a módosított garanciaszerződés eredeti példányát. (12) A garanciavállaló nyilatkozat, illetve garanciaszerződés őrzéséért a központi értéktár által felszámított díj a kibocsátót terheli. (13) Tekintet nélkül a garanciavállaló nyilatkozat visszavonására vagy a garanciaszerződés egyéb okból történő megszűnésére, a központi értéktár a garanciavállaló nyilatkozatot, illetve a garanciaszerződést az abban megjelölt lejáratot követő 5 évig, amennyiben erről igazolt információ nem áll rendelkezésére, a kötvény lejáratát követő 5 évig megőrzi. Ezt követően a központi értéktár a garanciavállaló nyilatkozat, illetve a garanciaszerződés eredeti példányát archiválja. (14) A központi értéktár a kibocsátó hozzájárulása hiányában a) amennyiben a központi értéktár ügyfele ezt kéri, részére, b) amennyiben a nem központi értéktári ügyfél a Bszt.-ben meghatározott ügyfélként az értékpapír-számlavezetőtől ezt kéri, az értékpapír-számlavezető részére bocsátja rendelkezésre a letétben őrzött garanciavállaló nyilatkozat vagy garanciaszerződés hiteles másolatát, igazolva, hogy az a letétben őrzött garanciavállaló nyilatkozattal vagy garanciaszerződéssel megegyező. (15) Amennyiben a kibocsátó a (11) bekezdésben meghatározott kötelezettségének nem tesz eleget, a központi értéktár a 9. § (1) bekezdése szerinti megbízás teljesítését megtagadja, a kötvényt nem állítja elő. Vállalati kötvény módosítása esetén, amennyiben a kibocsátó a (11) bekezdésben meghatározott kötelezettségének nem tesz eleget, a központi értéktár a 12/D. § (8) bekezdése szerinti megbízás teljesítését megtagadja, a vállalati kötvényt nem módosítja. (16) A központi értéktár a (11) bekezdés szerinti szolgáltatása részletszabályait, valamint a (14) bekezdés szerinti tájékoztatás feltételeit és módját üzletszabályzatában és szabályzatában írja elő.”"
     },
     {
       "provision_ref": "s27",
@@ -383,7 +382,7 @@
       "provision_ref": "s63",
       "section": "63",
       "title": "63. §",
-      "content": "63. § (1) (2)"
+      "content": "63. §"
     },
     {
       "provision_ref": "s64",
@@ -1253,7 +1252,7 @@
       "provision_ref": "s208",
       "section": "208",
       "title": "208. §",
-      "content": "208. § (1) (2) (3)"
+      "content": "208. §"
     },
     {
       "provision_ref": "s209",
@@ -1481,19 +1480,19 @@
       "provision_ref": "s246",
       "section": "246",
       "title": "246. §",
-      "content": "246. § (1) (2)"
+      "content": "246. §"
     },
     {
       "provision_ref": "s247",
       "section": "247",
       "title": "247. §",
-      "content": "247. § A Kbftv. a) b) c) d) e) f) g) h) i) j) k) l) lép."
+      "content": "247. §"
     },
     {
       "provision_ref": "s248",
       "section": "248",
       "title": "248. §",
-      "content": "248. § Hatályát veszti a Kbftv. a) b) c) d) e) f) g) h)"
+      "content": "248. §"
     },
     {
       "provision_ref": "s249",
@@ -1583,7 +1582,7 @@
       "provision_ref": "s263",
       "section": "263",
       "title": "263. §",
-      "content": "263. § Az Nhf. a) b) c) d) e) f) g) lép."
+      "content": "263. §"
     },
     {
       "provision_ref": "s264",
@@ -1601,7 +1600,7 @@
       "provision_ref": "s266",
       "section": "266",
       "title": "266. §",
-      "content": "266. § (1) Ez a törvény a) a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelvnek, b) a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és tanácsi irányelvnek c) az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelvnek és d) a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/927 európai parlamenti és tanácsi irányelvnek, e) a 2013/36/EU irányelvnek a felügyeleti hatáskörök, a szankciók, a harmadik országbeli vállalathoz tartozó fióktelepek, valamint a környezeti, társadalmi és irányítási kockázatok tekintetében történő módosításáról szóló 2024. május 31-i (EU) 2024/1619 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
+      "content": "266. § (1) Ez a törvény a) a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelvnek, b) a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és tanácsi irányelvnek c) az egyes irányelveknek az egységes európai hozzáférési pont létrehozása és működése tekintetében történő módosításáról szóló, 2023. december 13-i (EU) 2023/2864 európai parlamenti és tanácsi irányelvnek és d) a 2011/61/EU és a 2009/65/EK irányelvnek az átruházásra vonatkozó megállapodások, a likviditásikockázat-kezelés, a felügyeleti jelentéstétel, a letétkezelői és letéti őrzési szolgáltatások nyújtása, valamint az alternatív befektetési alapok általi hitelnyújtás tekintetében történő módosításáról szóló, 2024. március 13-i (EU) 2024/927 európai parlamenti és tanácsi irányelvnek, e) a 2013/36/EU irányelvnek a felügyeleti hatáskörök, a szankciók, a harmadik országbeli vállalathoz tartozó fióktelepek, valamint a környezeti, társadalmi és irányítási kockázatok tekintetében történő módosításáról szóló 2024. május 31-i (EU) 2024/1619 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja. (2) Ez a törvény a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg."
     }
   ],
   "definitions": []

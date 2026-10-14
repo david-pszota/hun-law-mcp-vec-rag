@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2009. évi CXXXVII. törvény az Országos Rádió és Televízió Testület 2010. évi költségvetéséről",
   "status": "in_force",
-  "in_force_date": "2010-01-01",
   "url": "https://njt.hu/jogszabaly/2009-137-00-00",
-  "description": "az Országos Rádió és Televízió Testület 2010. évi költségvetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -41,7 +40,7 @@
       "provision_ref": "s6",
       "section": "6",
       "title": "6. §",
-      "content": "6. § Ez a törvény 2010. január 1-jén lép hatályba. 1. melléklet a 2009. évi CXXXVII. törvényhez Az Országos Rádió és Televízió Testület 2010. évi költségvetésének kiadási oldala Elő- irányzat száma Előirányzat neve Előirányzat összege M Ft-ban 1. Személyi juttatások 888,356 2. Munkaadókat terhelő járulékok 240,885 3. Dologi kiadások 358,959 4. Felhalmozási kiadások 13,500 Összesen: 1 501,700 Költségvetésen kívüli ORTT kezelésű 2010. évi kiadási előirányzat Elő- irányzat száma Előirányzat neve Előirányzat összege M Ft-ban 1. Műsorszolgáltatási díj 5 301,637 2. Frekvencia pályázati díj 0,430 3. Támogatási pályázati díj 32,442 4. Kötbér 117,000 5. Bírság 37,000 6. Késedelmi kamat 10,288 7. ÁFA 1 333,627 Összesen: 6 832,424 2. melléklet a 2009. évi CXXXVII. törvényhez Az Országos Rádió és Televízió Testület 2010. évi költségvetésének bevételi oldala Elő- irányzat száma Előirányzat neve Előirányzat összege M Ft-ban 1. Fix összegű költségvetési támogatás 1 031,028 2. Rendkívüli finanszírozás 467,072 3. Működési bevétel 3,600 Összesen: 1 501,700 Költségvetésen kívüli ORTT kezelésű 2010. évi bevételi előirányzat Elő- irányzat száma Előirányzat neve Előirányzat összege M Ft-ban 1. Műsorszolgáltatási díj 5 301,637 2. Frekvencia pályázati díj 0,430 3. Támogatási pályázati díj 32,442 4. Kötbér 117,000 5. Bírság 37,000 6. Késedelmi kamat 10,288 7. ÁFA 1 333,627 Összesen: 6 832,424 3. melléklet a 2009. évi CXXXVII. törvényhez"
+      "content": "6. § Ez a törvény 2010. január 1-jén lép hatályba. Az Országos Rádió és Televízió Testület 2010. évi költségvetésének kiadási oldala Költségvetésen kívüli ORTT kezelésű 2010. évi kiadási előirányzat Az Országos Rádió és Televízió Testület 2010. évi költségvetésének bevételi oldala Költségvetésen kívüli ORTT kezelésű 2010. évi bevételi előirányzat M Ft M Ft"
     }
   ],
   "definitions": []

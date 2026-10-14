@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2024. évi LXXI. törvény a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásával összefüggő törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2024-12-21",
   "url": "https://njt.hu/jogszabaly/2024-71-00-00",
-  "description": "a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásával összefüggő törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -822,6 +821,12 @@
       "section": "136",
       "title": "136. §",
       "content": "136. § (1) A 17–20. §, a 22. §, a 23. §, a 27–30. §, a 31. § 1–8., 12–14., 59–67. pontja, a 32. § a), f) és g) pontja, valamint a 72. alcím az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül. (2) A 68. § az Alaptörvény 25. cikk (8) bekezdése alapján sarkalatosnak minősül. (3) A 44. alcím az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül. (4) A 71. alcím az Alaptörvény XXXI. cikk (4) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s137",
+      "section": "137",
+      "title": "137. §",
+      "content": "137. § E törvény 19. §-a, 58. § (3) bekezdése és a 133. §-a az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg."
     }
   ],
   "definitions": []

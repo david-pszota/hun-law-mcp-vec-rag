@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2012. évi LXXXVI. törvény a munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról",
   "status": "in_force",
-  "in_force_date": "2012-07-01",
   "url": "https://njt.hu/jogszabaly/2012-86-00-00",
-  "description": "a munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -593,7 +592,7 @@
       "provision_ref": "s90",
       "section": "90",
       "title": "90. §",
-      "content": "90. § (1)"
+      "content": "90. § (1) (2)–(4)"
     }
   ],
   "definitions": []

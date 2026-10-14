@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi CXXXIII. törvény egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2021-12-25",
   "url": "https://njt.hu/jogszabaly/2021-133-00-00",
-  "description": "egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -330,6 +329,12 @@
       "section": "52",
       "title": "52. §",
       "content": "52. §"
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "53. §",
+      "content": "53. §"
     }
   ],
   "definitions": [

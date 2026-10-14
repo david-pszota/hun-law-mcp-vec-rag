@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2006. évi XCIX. törvény a Magyar Köztársaság 2005. évi költségvetésének végrehajtásáról",
   "status": "in_force",
-  "in_force_date": "2006-12-08",
   "url": "https://njt.hu/jogszabaly/2006-99-00-00",
-  "description": "a Magyar Köztársaság 2005. évi költségvetésének végrehajtásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -193,6 +192,13 @@
       "section": "30",
       "title": "30. §",
       "content": "30. § Az Országgyűlés az Ny. Alap mérlegét a 12. számú melléklet és az E. Alap mérlegét a 13. számú melléklet szerint jóváhagyja."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Negyedik Fejezet - A társadalombiztosítás pénzügyi alapjai költségvetésének végrehajtásával kapcsolatos rendelkezések",
+      "section": "31",
+      "title": "31. §",
+      "content": "31. § Ez a törvény a kihirdetését követő 8. napon lép hatályba."
     }
   ],
   "definitions": []

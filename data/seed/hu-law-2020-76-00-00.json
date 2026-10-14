@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2020. évi LXXVI. törvény Magyarország 2021. évi központi költségvetésének megalapozásáról",
   "status": "in_force",
-  "in_force_date": "2020-07-15",
   "url": "https://njt.hu/jogszabaly/2020-76-00-00",
-  "description": "Magyarország 2021. évi központi költségvetésének megalapozásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -912,6 +911,12 @@
       "section": "151",
       "title": "151. §",
       "content": "151. § E törvény 1. 50–53. §-a az Alaptörvény IX. cikk (6) bekezdése és 23. cikke, 2. 54. § 1., 2., 4. és 5. pontja és 55. § 2. pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése, 3. 56. §-a és 59. §-a az Alaptörvény 29. cikk (7) bekezdése, 4. 61. §-a az Alaptörvény 31. cikk (3) bekezdése, 5. 95. §-a az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s152",
+      "section": "152",
+      "title": "152. §",
+      "content": "152. § E törvény 8. §-a és 10. §-a a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelv 47. cikk (2) bekezdésének való megfelelést szolgálja."
     }
   ],
   "definitions": []

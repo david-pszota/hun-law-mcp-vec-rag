@@ -188,11 +188,11 @@ function extractNjtBlocks(html: string): NjtBlock[] {
 }
 
 function isSectionContentClass(blockClass: string): boolean {
-  return /(szakasz|bekezdes|pont|alpont|mondat|szoveg|szelet)/i.test(blockClass);
+  return /(szakasz|bekezdes|pont|alpont|mondat|szoveg|szelet|melleklet)/i.test(blockClass);
 }
 
 function isLegacyContentClass(blockClass: string): boolean {
-  return /(preambulum|bekezdes|pont|alpont|mondat|szoveg|szelet)/i.test(blockClass);
+  return /(preambulum|bekezdes|pont|alpont|mondat|szoveg|szelet|melleklet)/i.test(blockClass);
 }
 
 function provisionTitleFromKey(key: string, section: string): string {
@@ -295,6 +295,11 @@ export function parseHungarianHtml(html: string, act: ActIndexEntry): ParsedAct 
       key = articleToKey(articleFromText);
       activeSectionKey = key;
     } else if (activeSectionKey && isSectionContentClass(blockClass)) {
+      key = activeSectionKey;
+    } else if (blockId && blockId.startsWith("ME")) {
+      key = blockId;
+      activeSectionKey = blockId;
+    } else if (activeSectionKey && activeSectionKey.startsWith("ME")) {
       key = activeSectionKey;
     }
 

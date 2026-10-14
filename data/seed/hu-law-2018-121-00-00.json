@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2018. évi CXXI. törvény egyes belügyi tárgyú és más kapcsolódó törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2018-12-21",
   "url": "https://njt.hu/jogszabaly/2018-121-00-00",
-  "description": "egyes belügyi tárgyú és más kapcsolódó törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -923,7 +922,13 @@
       "provision_ref": "s153",
       "section": "153",
       "title": "153. §",
-      "content": "153. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény a következő 6/A. alcímmel kiegészülve lép hatályba: „6/A. A Kormány pénzügyi kötelezettségvállalása 10/A. § A Kormány az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen belüli állam állampolgára vagy az ilyen államban bejegyzett jogi személy vagy egyéb szervezet számára a 2. § (4) bekezdésében meghatározott tevékenységet folytató, magyarországi székhelyű gazdasági társaságban történő tulajdonszerzéséhez – különös tekintettel az ilyen jogi személy vagy egyéb szervezet vezető tisztségviselője vagy munkavállalója által közvetlenül vagy közvetett módon, vagy munkavállalói résztulajdonosi program keretében történő tulajdonszerzésre – felhatalmazást adhat pénzügyi kötelezettség vállalására az állami támogatási szabályokkal összeegyeztethető módon. Ilyen pénzügyi kötelezettség lehet különösen az állami kezességvállalás, garancia, az állami költségvetési támogatás, a Polgári Törvénykönyvről szóló pénzkölcsön.”"
+      "content": "153. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény a következő 6/A. alcímmel kiegészülve lép hatályba: „6/A. A Kormány pénzügyi kötelezettségvállalása"
+    },
+    {
+      "provision_ref": "s10a",
+      "section": "10/A",
+      "title": "10/A. §",
+      "content": "10/A. § A Kormány az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen belüli állam állampolgára vagy az ilyen államban bejegyzett jogi személy vagy egyéb szervezet számára a 2. § (4) bekezdésében meghatározott tevékenységet folytató, magyarországi székhelyű gazdasági társaságban történő tulajdonszerzéséhez – különös tekintettel az ilyen jogi személy vagy egyéb szervezet vezető tisztségviselője vagy munkavállalója által közvetlenül vagy közvetett módon, vagy munkavállalói résztulajdonosi program keretében történő tulajdonszerzésre – felhatalmazást adhat pénzügyi kötelezettség vállalására az állami támogatási szabályokkal összeegyeztethető módon. Ilyen pénzügyi kötelezettség lehet különösen az állami kezességvállalás, garancia, az állami költségvetési támogatás, a Polgári Törvénykönyvről szóló pénzkölcsön.”"
     },
     {
       "provision_ref": "s154",
@@ -935,7 +940,7 @@
       "provision_ref": "s155",
       "section": "155",
       "title": "155. §",
-      "content": "155. § (1) E törvény 9–15. §-a, 16. § (1)–(2) bekezdése, 17–18. §-a, 20–23. §-a, 24. § a)–e) és g)–l) pontja, 25. §-a, 38–39. §-a, 41–50. §-a, 105. §-a és 1. melléklete az Alaptörvény 46. § (6) bekezdése alapján sarkalatosnak minősül. (2) E törvény 16. § (3) bekezdése és 24. § f) pontja az Alaptörvény 46. § (6) bekezdése alapján sarkalatosnak minősül."
+      "content": "155. § (1) E törvény 9–15. §-a, 16. § (1)–(2) bekezdése, 17–18. §-a, 20–23. §-a, 24. § a)–e) és g)–l) pontja, 25. §-a, 38–39. §-a, 41–50. §-a, 105. §-a és 1. melléklete az Alaptörvény 46. § (6) bekezdése alapján sarkalatosnak minősül. (2) E törvény 16. § (3) bekezdése és 24. § f) pontja az Alaptörvény 46. § (6) bekezdése alapján sarkalatosnak minősül. (3) E törvény 86. §-a az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

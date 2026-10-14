@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2015. évi LXXV. törvény a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló egyes állami tulajdonú vagyontárgyak ingyenes önkormányzati tulajdonba adásáról",
   "status": "in_force",
-  "in_force_date": "2015-07-01",
   "url": "https://njt.hu/jogszabaly/2015-75-00-00",
-  "description": "a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló egyes állami tulajdonú vagyontárgyak ingyenes önkormányzati tulajdonba adásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -59,7 +58,7 @@
       "provision_ref": "s9",
       "section": "9",
       "title": "9. §",
-      "content": "9. § Ez a törvény a kihirdetését követő hónap első napján lép hatályba. Melléklet a 2015. évi LXXV. törvényhez"
+      "content": "9. § Ez a törvény a kihirdetését követő hónap első napján lép hatályba."
     }
   ],
   "definitions": [

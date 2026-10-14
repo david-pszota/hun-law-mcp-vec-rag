@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi VIII. törvény az egyrészről az Európai Unió és tagállamai, másrészről a Kirgiz Köztársaság közötti Megerősített Partnerségi és Együttműködési Megállapodás kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2025-04-25",
   "url": "https://njt.hu/jogszabaly/2025-8-00-00",
-  "description": "az egyrészről az Európai Unió és tagállamai, másrészről a Kirgiz Köztársaság közötti Megerősített Partnerségi és Együttműködési Megállapodás kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -36,6 +35,12 @@
       "section": "5",
       "title": "5. §",
       "content": "5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért és a külpolitikáért felelős miniszter gondoskodik."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "6. §",
+      "content": "6. §"
     }
   ],
   "definitions": []

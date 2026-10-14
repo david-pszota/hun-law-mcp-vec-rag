@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2001. évi LXXX. törvény a jogellenesen kivitt kulturális javak visszaszolgáltatásáról",
   "status": "in_force",
-  "in_force_date": "2004-05-01",
   "url": "https://njt.hu/jogszabaly/2001-80-00-00",
-  "description": "a jogellenesen kivitt kulturális javak visszaszolgáltatásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -60,6 +59,12 @@
       "section": "8",
       "title": "8. §",
       "content": "8. § E törvény az Európai Unióhoz történő csatlakozásról szóló nemzetközi szerződést kihirdető törvény hatálybalépése napján lép hatályba. E törvény rendelkezéseit az 1993. január 1-jén, vagy azt követően jogellenesen kivitt kulturális javakra az 5. §-ban meghatározott korlátozások figyelembevételével kell alkalmazni."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "9. §",
+      "content": "9. § Ez a törvény az Európai Parlament és a Tanács a tagállamok területéről jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2014/60/EU irányelvének (2014. május 15.) való megfelelést szolgálja."
     }
   ],
   "definitions": [

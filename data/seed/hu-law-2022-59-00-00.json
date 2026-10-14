@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2022. évi LIX. törvény egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2022-12-20",
   "url": "https://njt.hu/jogszabaly/2022-59-00-00",
-  "description": "egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -647,7 +646,7 @@
       "provision_ref": "s107",
       "section": "107",
       "title": "107. §",
-      "content": "107. § (1) A 7. §, a 11. § e)–h) pontja, valamint a 12. § a) pontja a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i (EU) 2018/958 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
+      "content": "107. § (1) A 7. §, a 11. § e)–h) pontja, valamint a 12. § a) pontja a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i (EU) 2018/958 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja. (2) A 8. alcím a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
     }
   ],
   "definitions": []

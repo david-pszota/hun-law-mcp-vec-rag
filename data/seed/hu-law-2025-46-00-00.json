@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi XLVI. törvény egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-07-01",
   "url": "https://njt.hu/jogszabaly/2025-46-00-00",
-  "description": "egyes sportcélú állami tulajdonú vagyonelemek ingyenes tulajdonba adásáról, valamint egyes kapcsolódó törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -96,6 +95,12 @@
       "section": "15",
       "title": "15. §",
       "content": "15. §"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "16. §",
+      "content": "16. §"
     }
   ],
   "definitions": []

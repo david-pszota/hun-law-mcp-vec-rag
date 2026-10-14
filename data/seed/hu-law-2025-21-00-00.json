@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi XXI. törvény a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-05-13",
   "url": "https://njt.hu/jogszabaly/2025-21-00-00",
-  "description": "a közpénzek szabályozásával összefüggő egyes törvények, valamint a számvitelről szóló törvény módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -198,6 +197,12 @@
       "section": "32",
       "title": "32. §",
       "content": "32. § E törvény 5. alcíme és az 1. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "33. §",
+      "content": "33. § E törvény 1. alcíme az 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
     }
   ],
   "definitions": []

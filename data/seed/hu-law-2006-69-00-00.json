@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2006. évi LXIX. törvény az európai szövetkezetről",
   "status": "in_force",
-  "in_force_date": "2006-08-18",
   "url": "https://njt.hu/jogszabaly/2006-69-00-00",
-  "description": "az európai szövetkezetről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -391,6 +390,13 @@
       "section": "55",
       "title": "55. §",
       "content": "55. § E törvény az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvénnyel megállapított rendelkezéseinek az európai szövetkezet a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvénynek a szövetkezetekre vonatkozó különös átmeneti rendelkezései szerint köteles megfelelni."
+    },
+    {
+      "provision_ref": "s5660",
+      "chapter": "XI. Fejezet",
+      "section": "56–60",
+      "title": "56–60. §",
+      "content": "56–60. §"
     }
   ],
   "definitions": []

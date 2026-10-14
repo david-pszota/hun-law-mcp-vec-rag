@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2024. évi LXXX. törvény egyes agrártárgyú törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-01-01",
   "url": "https://njt.hu/jogszabaly/2024-80-00-00",
-  "description": "egyes agrártárgyú törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -906,6 +905,12 @@
       "section": "150",
       "title": "150. §",
       "content": "150. § A 33. § a) pontja az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg."
+    },
+    {
+      "provision_ref": "s151",
+      "section": "151",
+      "title": "151. §",
+      "content": "151. § A 25. alcím tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént."
     }
   ],
   "definitions": []

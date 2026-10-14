@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2007. évi XLVI. törvény a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2007-06-15",
   "url": "https://njt.hu/jogszabaly/2007-46-00-00",
-  "description": "a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -23,7 +22,7 @@
       "provision_ref": "s3",
       "section": "3",
       "title": "3. §",
-      "content": "3. § (1) E törvény a kihirdetését követő 8. napon lép hatályba."
+      "content": "3. § (1) E törvény a kihirdetését követő 8. napon lép hatályba. (2) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik."
     }
   ],
   "definitions": []

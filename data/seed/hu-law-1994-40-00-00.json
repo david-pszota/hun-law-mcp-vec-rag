@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "1994. évi XL. törvény a Magyar Tudományos Akadémiáról",
   "status": "in_force",
-  "in_force_date": "1994-06-30",
   "url": "https://njt.hu/jogszabaly/1994-40-00-00",
-  "description": "a Magyar Tudományos Akadémiáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -221,7 +220,7 @@
       "provision_ref": "s33",
       "section": "33",
       "title": "33. §",
-      "content": "33. § (1) Ez a törvény — a 6. § kivételével — 1994. június 30-án lép hatályba."
+      "content": "33. § (1) Ez a törvény — a 6. § kivételével — 1994. június 30-án lép hatályba. (2)"
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2020. évi XXXII. törvény a kulturális intézményekben foglalkoztatottak közalkalmazotti jogviszonyának átalakulásáról, valamint egyes kulturális tárgyú törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2020-07-01",
   "url": "https://njt.hu/jogszabaly/2020-32-00-00",
-  "description": "a kulturális intézményekben foglalkoztatottak közalkalmazotti jogviszonyának átalakulásáról, valamint egyes kulturális tárgyú törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -348,6 +347,12 @@
       "section": "57",
       "title": "57. §",
       "content": "57. §"
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "58. §",
+      "content": "58. §"
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2020. évi XXX. törvény egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról",
   "status": "in_force",
-  "in_force_date": "2020-05-29",
   "url": "https://njt.hu/jogszabaly/2020-30-00-00",
-  "description": "egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -348,6 +347,12 @@
       "section": "56",
       "title": "56. §",
       "content": "56. § (1) Ha az ügyben e törvény hatálybalépésével a fellebbezés kizárttá válik, törvény vagy kormányrendelet eltérő rendelkezése hiányában a folyamatban lévő fellebbezési eljárást a fellebbezést kizáró rendelkezés hatálybalépését megelőzően hatáskörrel rendelkező szerv folytatja le. (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, e törvény hatálybalépésével más szerv feladat- és hatáskörébe kerülő, folyamatban lévő elsőfokú ügyekben, valamint a folyamatban lévő peres eljárásokban az a szerv jár el, amelynek hatáskörébe a feladat ellátása a jogszabály rendelkezése szerint kerül. (3) A folyamatban lévő ügyekben az e törvény hatálybalépése előtt végzett eljárási cselekmények hatályát és a megkezdett határidőket nem érinti az, hogy az eljárás lefolytatása e törvény hatálybalépésével más szerv feladat- és hatáskörébe kerül. (4) Az 1. §, a 3. §, a 4. § (3) bekezdése, az 5–9. §, a 11. §, a 12. § (1) bekezdés a) pontja és (2) bekezdése, a 13. §, a 16–22. §, a 24–32. §, a 34. § (2) bekezdése, a 35–41. §, a 43. §, a 44. § és a 46–49. § rendelkezéseit a 2020. július 1. napját követően indult és a megismételt eljárásokban kell alkalmazni."
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "57. §",
+      "content": "57. § E törvény a) 10. § (2) bekezdése, (8) bekezdése és (12) bekezdése az Alaptörvény 31. cikk (3) bekezdése és 38. cikk (1) bekezdése alapján, b) 34. §-a az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján, c) 53. és 54. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján d) 53/A. §-a az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

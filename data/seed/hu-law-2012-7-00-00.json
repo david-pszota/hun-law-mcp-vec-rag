@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2012. évi VII. törvény a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény módosításáról",
   "status": "in_force",
-  "in_force_date": "2012-03-01",
   "url": "https://njt.hu/jogszabaly/2012-7-00-00",
-  "description": "a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -29,7 +28,7 @@
       "provision_ref": "s4",
       "section": "4",
       "title": "4. §",
-      "content": "4. § (1) Ez a törvény 2012. március 1-jén lép hatályba."
+      "content": "4. § (1) Ez a törvény 2012. március 1-jén lép hatályba. (2) E törvény az Alaptörvény VII. cikk (4) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

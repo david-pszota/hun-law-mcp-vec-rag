@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2012. évi CCXVII. törvény az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről",
   "status": "in_force",
-  "in_force_date": "2012-12-31",
   "url": "https://njt.hu/jogszabaly/2012-217-00-00",
-  "description": "az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -923,7 +922,7 @@
       "provision_ref": "s129",
       "section": "129",
       "title": "129. §",
-      "content": "129. § 1. melléklet a 2012. évi CCXVII. törvényhez"
+      "content": "129. §"
     }
   ],
   "definitions": [

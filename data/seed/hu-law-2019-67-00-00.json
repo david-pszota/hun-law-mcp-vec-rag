@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2019. évi LXVII. törvény a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról",
   "status": "in_force",
-  "in_force_date": "2019-07-17",
   "url": "https://njt.hu/jogszabaly/2019-67-00-00",
-  "description": "a hosszú távú részvényesi szerepvállalás ösztönzéséről és egyes törvények jogharmonizációs célú módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -1035,6 +1034,13 @@
       "section": "147",
       "title": "147. §",
       "content": "147. §"
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "VII. Fejezet - MÓDOSÍTÓ RENDELKEZÉSEK",
+      "section": "148",
+      "title": "148. §",
+      "content": "148. §"
     }
   ],
   "definitions": [

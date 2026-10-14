@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2024. évi XXXII. törvény a kulturális örökség egyes elemeinek fenntartható fejlesztéséről",
   "status": "in_force",
-  "in_force_date": "2024-07-03",
   "url": "https://njt.hu/jogszabaly/2024-32-00-00",
-  "description": "a kulturális örökség egyes elemeinek fenntartható fejlesztéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -144,6 +143,12 @@
       "section": "23",
       "title": "23. §",
       "content": "23. §"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "24. §",
+      "content": "24. §"
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2023. évi XXXVII. törvény a Délkelet-európai Rendőri Együttműködési Egyezmény Felei között létrejött, a DNS-adatok, a daktiloszkópiai adatok és a gépjármű-nyilvántartási adatok automatizált cseréjéről szóló Megállapodás módosításáról szóló Jegyzőkönyv kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2023-06-22",
   "url": "https://njt.hu/jogszabaly/2023-37-00-00",
-  "description": "a Délkelet-európai Rendőri Együttműködési Egyezmény Felei között létrejött, a DNS-adatok, a daktiloszkópiai adatok és a gépjármű-nyilvántartási adatok automatizált cseréjéről szóló Megállapodás módosításáról szóló Jegyzőkönyv kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -35,7 +34,7 @@
       "provision_ref": "s5",
       "section": "5",
       "title": "5. §",
-      "content": "5. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik."
+      "content": "5. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter gondoskodik. (2) A Megállapodás és a Jegyzőkönyv egységes szerkezetbe foglalt hiteles angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának a Jegyzőkönyv hatálybalépését követő haladéktalan közzétételéről a rendészetért felelős miniszter gondoskodik."
     }
   ],
   "definitions": []

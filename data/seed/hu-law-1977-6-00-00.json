@@ -3,244 +3,243 @@
   "type": "statute",
   "title": "1977. évi VI. TÖRVÉNY az állami vállalatokról szóló",
   "status": "in_force",
-  "in_force_date": "1990-12-31",
   "url": "https://njt.hu/jogszabaly/1977-6-00-00",
-  "description": "az állami vállalatokról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
-      "chapter": "I. Fejezet - Bevezető rendelkezések",
+      "chapter": "I. Fejezet Bevezető rendelkezések",
       "section": "1",
       "title": "1. §",
       "content": "1. § Az állam a gazdálkodási feladatainak ellátása végett állami vállalatokat és más állami gazdálkodó szervezeteket működtet."
     },
     {
       "provision_ref": "s2",
-      "chapter": "I. Fejezet - Bevezető rendelkezések",
+      "chapter": "I. Fejezet Bevezető rendelkezések",
       "section": "2",
       "title": "2. §",
       "content": "2. § (1) Az állami vállalat (a továbbiakban: vállalat) az állam erre feljogosított szervei által alapított olyan gazdálkodó szervezet, amely az állami tulajdonból rábízott vagyonnal e törvényben meghatározott módon és felelősséggel önállóan gazdálkodik. (2) A vállalat jogi személy."
     },
     {
       "provision_ref": "s3",
-      "chapter": "I. Fejezet - Bevezető rendelkezések",
+      "chapter": "I. Fejezet Bevezető rendelkezések",
       "section": "3",
       "title": "3. §",
       "content": "3. § (1) Az állam e törvényben és más jogszabályokban meghatározott módon irányítja és ellenőrzi a vállalat gazdálkodását. (2) (3) (4)"
     },
     {
       "provision_ref": "s4",
-      "chapter": "I. Fejezet - Bevezető rendelkezések",
+      "chapter": "I. Fejezet Bevezető rendelkezések",
       "section": "4",
       "title": "4. §",
       "content": "4. §"
     },
     {
       "provision_ref": "s5",
-      "chapter": "I. Fejezet - Bevezető rendelkezések",
+      "chapter": "I. Fejezet Bevezető rendelkezések",
       "section": "5",
       "title": "5. §",
       "content": "5. §"
     },
     {
       "provision_ref": "s6",
-      "chapter": "I. Fejezet - Bevezető rendelkezések",
+      "chapter": "I. Fejezet Bevezető rendelkezések",
       "section": "6",
       "title": "6. §",
       "content": "6. § (1) A vállalat a feladatainak eredményes ellátása érdekében — a jogszabályok keretei között — olyan belső irányítási, elszámolási és érdekeltségi rendszert köteles kialakítani, amely biztosítja a gazdálkodás hatékonyságának folyamatos növelését, továbbá a vállalati dolgozók anyagi és erkölcsi érdekeltségét. (2) A vállalat dolgozói a vállalat gazdálkodásának eredményéből külön jogszabályok rendelkezései és a kollektív szerződésben foglaltak szerint részesednek."
     },
     {
       "provision_ref": "s7",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "7",
       "title": "7. §",
       "content": "7. § (1) A vállalat elkülönült szervezeti egységének vezetője vagy az elkülönült szervezeti egység dolgozóinak kétharmada, továbbá a tröszti vállalat igazgatója vagy dolgozóinak kétharmada az alapítói jogokat gyakorló szervnél a szervezeti egység, illetőleg a tröszti vállalat önálló vállalatként való létesítését kezdeményezheti. (2) Az önálló vállalat létesítésére (a továbbiakban: kiválásra) elsősorban akkor kerülhet sor, ha az elősegíti az elkülönült szervezeti egységnek, vagy annak a vállalatnak a gazdasági társasággá alakítását, amelyből a kiválás történt. (3) Az alapítói jogokat gyakorló szerv a döntésről a kezdeményezőt írásban értesíti; az elutasítást indokolni kell."
     },
     {
       "provision_ref": "s8",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "8",
       "title": "8. §",
       "content": "8. §"
     },
     {
       "provision_ref": "s9",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "9",
       "title": "9. §",
       "content": "9. §"
     },
     {
       "provision_ref": "s10",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "10",
       "title": "10. §",
       "content": "10. §"
     },
     {
       "provision_ref": "s10a",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "10/A",
       "title": "10/A. §",
       "content": "10/A. §"
     },
     {
       "provision_ref": "s10b",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "10/B",
       "title": "10/B. §",
       "content": "10/B. §"
     },
     {
       "provision_ref": "s10c",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "10/C",
       "title": "10/C. §",
       "content": "10/C. § (1) A létesítő határozatot az alapítói jogokat gyakorló szerv hozza. (2) A vállalatot létesítő határozatban meg kell jelölni a vállalat a) nevét és székhelyét; b) tevékenységi körét; c) induló vagyonát (jegyzett tőkéjét); d) általános vezetését ellátó szervet, továbbá e) az alapítói jogokat gyakorló szervet, valamint f) a jogszabály által előírt egyéb tényeket és körülményeket. (3) A határozatban fel kell tüntetni annak a vállalatnak, szervezetnek a nevét is, amelyből a kiválás történt. (4) A létesítő határozatban kell rendelkezni a) a vállalati saját tőkének és a saját tőkéhez kapcsolódó eszközöknek és kötelezettségeknek a vállalat és az önállósodott (kivált) gazdasági egység közötti megosztásáról; b) az önállósodott gazdasági egységnél foglalkoztatott dolgozók munkaviszonyával kapcsolatos kérdések rendezéséről; c) a jogutódlással összefüggő kérdésekről, ideértve a hitelezői követelések kielégítését is. (5) A vállalat létesítését a határozat kiadásától számított harminc napon belül be kell jelenteni a cégjegyzéket vezető törvényszéknek (a továbbiakban: cégbíróság). A vállalat a cégjegyzékbe való bejegyzéssel jön létre. A bejegyzés csak akkor tagadható meg, ha a létesítő határozat jogszabályba ütközik. (6) A cégbírósághoz intézett bejelentésnek tartalmaznia kell minden adatot, amelynek bejegyzését a bírósági cégnyilvántartásról szóló jogszabályok előírják. A cégbírósághoz intézett bejelentés megtétele annak a szervnek a feladata, amely a vállalat létesítésére, illetőleg a kötelezően bejegyzendő más változásra vonatkozó határozatot hozta."
     },
     {
       "provision_ref": "s11",
-      "chapter": "II. Fejezet - A vállalat létesítése",
+      "chapter": "II. Fejezet A vállalat létesítése",
       "section": "11",
       "title": "11. §",
       "content": "11. §"
     },
     {
       "provision_ref": "s12",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "12",
       "title": "12. §",
       "content": "12. § (1) A vállalat általános vezetését ellátja: a) a vállalati tanács, vagy b) a vállalat dolgozóinak közgyűlése vagy küldöttgyűlése (a továbbiakban együtt: a dolgozók közgyűlése), vagy c) az igazgató. (2) Ha a szervezeti és működési szabályzat ezt előírja, a vállalati tanács ellenőrző bizottságot, a dolgozók közgyűlése (küldöttgyűlése) vezetőséget, illetőleg ellenőrző bizottságot választ. (3) Ha a vállalat általános vezetését az igazgató látja el (a továbbiakban: államigazgatási felügyelet alatt álló vállalat), a vállalatot létesítő határozat előírhatja az igazgató mellett működő igazgató tanács létrehozását. (4) A vállalati tanács, a dolgozók közgyűlése (küldöttgyűlése), a vezetőség, illetőleg az igazgatótanács hatáskörébe tartozó kérdésekben az igazgató e testületek határozatainak keretei között jár el, egyébként a vállalatot önállóan és egyéni felelősséggel vezeti. (5)"
     },
     {
       "provision_ref": "s13",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "13",
       "title": "13. §",
       "content": "13. § (1) A vállalat belső szervezetét — a jogszabályok keretei között — a szervezeti és működési szabályzat határozza meg. Ebben gondoskodni kell a vállalat feladatainak ellátására legmegfelelőbb szervezet kialakításáról, az irányítási és döntési hatáskörök, a belső elszámolási, érdekeltségi és ellenőrzési rendszer megállapításáról. (2) Azoknál a vállalatoknál, amelyeknek elkülönült szervezeti egységei vannak, a szervezeti és működési szabályzatban kell meghatározni a szervezeti egységek gazdálkodási önállóságát és felelősségét, a vállalati döntésekben való részvételük módját, érdekeltségüket gazdálkodási és fejlesztési tevékenységük eredményességében, valamint külön elszámolási és érdekeltségi rendszerüket. (3) A vállalat belső szervezetével és működésével kapcsolatos részletes szabályokat — a szervezeti és működési szabályzat keretei között — külön belső szabályzat is megállapíthatja."
     },
     {
       "provision_ref": "s14",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "14",
       "title": "14. §",
       "content": "14. §"
     },
     {
       "provision_ref": "s15",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "15",
       "title": "15. §",
       "content": "15. § Ha a vállalat általános vezetését vállalati tanács, illetőleg a dolgozók közgyűlése látja el, az igazgató megválasztásáról és felmentéséről e testület dönt, államigazgatási felügyelet alatt álló vállalatnál pedig az igazgatót az alapító szerv nevezi ki és menti fel."
     },
     {
       "provision_ref": "s16",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "16",
       "title": "16. §",
       "content": "16. §"
     },
     {
       "provision_ref": "s17",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "17",
       "title": "17. §",
       "content": "17. §"
     },
     {
       "provision_ref": "s18",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "18",
       "title": "18. §",
       "content": "18. §"
     },
     {
       "provision_ref": "s19",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "19",
       "title": "19. §",
       "content": "19. § A vállalat dolgozói e törvény és a külön jogszabályok, valamint a vállalat szervezeti és működési szabályzata által meghatározott keretek között részt vesznek a vállalat vezetésében, illetőleg a vezetés ellenőrzésében."
     },
     {
       "provision_ref": "s20",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "20",
       "title": "20. §",
       "content": "20. §"
     },
     {
       "provision_ref": "s21",
-      "chapter": "III. Fejezet - A vállalat szervezete",
+      "chapter": "III. Fejezet A vállalat szervezete",
       "section": "21",
       "title": "21. §",
       "content": "21. §"
     },
     {
       "provision_ref": "s22",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "22",
       "title": "22. §",
       "content": "22. § (1) A vállalat a rábízott vagyonnal és az alkalmazásában álló munkaerővel a jogszabályok keretei között önállóan gazdálkodik. (2) A vállalat a gazdasági feltételekhez alkalmazkodó felelős és kezdeményező vállalkozásával és kockázatvállalásával szolgálja a vállalati és társadalmi érdekek érvényesülését, a társadalmi szükségletek kielégítését. (3) A vállalatot a gazdálkodás, a rábízott vagyon kezelése körében minden olyan jog megilleti, amelyet tőle jogszabály kifejezetten nem von el. (4) A vállalat a jogait a társadalmi-gazdasági rendeltetésének megfelelően gyakorolja."
     },
     {
       "provision_ref": "s23",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "23",
       "title": "23. §",
       "content": "23. § A vállalat alapvető joga, illetőleg kötelessége a) a vállalat anyagi és szellemi erőforrásainak hatékony felhasználása és gyarapítása, b) a vállalati tervek meghatározása, c) mérleg és eredménykimutatás készítése, d) a vállalati üzlet- és árpolitika, valamint a termékek és szolgáltatások szerkezetének meghatározása, e) a vállalat szervezeti és működési szabályzatának megállapítása, f) a munkáltatói jogok gyakorlása, illetőleg kötelezettségek teljesítése, a személyzeti és munkaügyi feladatok ellátása, g) továbbá gazdasági társaságban való részvétel, h) a társadalmi tulajdon védelme, illetőleg az ehhez szükséges feltételek biztosítása, a belső elenőrzési, információs és számviteli rendszer megszervezése, i) a munkavégzés körülményeinek tervszerű és folyamatos javítása, az egészséges és biztonságos munkavégzés, továbbá a termelés-, üzem- és tűzbiztonság feltételeinek biztosítása, j) k)"
     },
     {
       "provision_ref": "s24",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "24",
       "title": "24. §",
       "content": "24. § (1) (2) A vállalat a szervezeti és működési szabályzatában határozza meg tevékenységének teljes körű és rendszeres belső ellenőrzését. (3) A belső ellenőrzés szervezetét és feladatait külön jogszabály állapítja meg."
     },
     {
       "provision_ref": "s25",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "25",
       "title": "25. §",
       "content": "25. § (1) A vállalat tevékenységi körét a nemzetgazdaság és a lakosság szükségleteire figyelemmel úgy kell megállapítani, hogy az lehetővé tegye erőforrásainak leggazdaságosabb felhasználását. (2)"
     },
     {
       "provision_ref": "s26",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "26",
       "title": "26. §",
       "content": "26. § (1) A vállalat a tevékenységi körét a koncesszió-köteles tevékenységek kivételével — a 26/A. §-ban említett esetben a külön jog vagy hatósági engedély megadását követően — módosíthatja. (2) Az alapítói jogokat gyakorló szerv az államigazgatási felügyelet alatt álló vállalat tevékenységi körének módosítását korlátozhatja."
     },
     {
       "provision_ref": "s26a",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "26/A",
       "title": "26/A. §",
       "content": "26/A. § Jogszabály egyes tevékenységek folytatását külön jog vagy hatósági engedély megadásához kötheti. A külön engedélyhez kötött tevékenységeket, valamint az engedélyezésre jogosult hatóságokat jogszabály határozza meg."
     },
     {
       "provision_ref": "s27",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "27",
       "title": "27. §",
       "content": "27. § (1) A vállalatot létesítésekor el kell látni a tevékenységi körének ellátásához szükséges vagyonnal (induló vagyonnal), (2) A vállalat gondoskodik a rábízott vagyon és más eszközök tervszerű, gazdaságos felhasználásáról és gyarapításáról. (3) A vállalat a kötelezettségeiért a rábízott vagyonával maga felel. (4)"
     },
     {
       "provision_ref": "s28",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "28",
       "title": "28. §",
       "content": "28. § A vállalatra rábízott vagyon — ha törvény kivételt nem tesz — nem vonható el; államigazgatási felügyelet alatt álló vállalat esetében az alapítói jogokat gyakorló szerv ettől eltérően rendelkezhet."
     },
     {
       "provision_ref": "s29",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "29",
       "title": "29. §",
       "content": "29. §"
     },
     {
       "provision_ref": "s30",
-      "chapter": "IV. Fejezet - A vállalat gazdálkodása",
+      "chapter": "IV. Fejezet A vállalat gazdálkodása",
       "section": "30",
       "title": "30. §",
       "content": "30. § A vállalat képviselője az igazgató, aki a jogkörét esetenként, vagy az ügyek meghatározott csoportjára nézve a vállalat — szervezeti és működési szabályzatban megjelölt — dolgozóira átruházhatja."
@@ -352,122 +351,122 @@
     },
     {
       "provision_ref": "s42",
-      "chapter": "VI. Fejezet - A vállalat megszűnése",
+      "chapter": "VI. Fejezet A vállalat megszűnése",
       "section": "42",
       "title": "42. §",
       "content": "42. § (1) A vállalat megszűnik a) b) ha gazdasági társasággá vagy szövetkezetté átalakul, c) ha az alapító szerv a 42/A. § (1) bekezdésében meghatározott okból megszünteti, d) ha a bíróság felszámolási eljárás során megszünteti, e) ha a cégbíróság megszűntnek nyilvánítja. (2) Az államigazgatási felügyelet alatt álló vállalatot az alapító szerv akkor is megszüntetheti, ha a) a vállalat tevékenységére a nemzetgazdaságnak nincs szüksége, vagy b) a tevékenység más vállalat keretében gazdaságosabban látható el."
     },
     {
       "provision_ref": "s42a",
-      "chapter": "VI. Fejezet - A vállalat megszűnése",
+      "chapter": "VI. Fejezet A vállalat megszűnése",
       "section": "42/A",
       "title": "42/A. §",
       "content": "42/A. § (1) Ha a vállalati tanács vagy közgyűlés (küldöttgyűlés) általános vezetésével működő vállalat könyvviteli mérleg szerinti vagyona az előző két naptári év bármelyikéhez képest húsz százalékkal csökkent, az alapító szerv a vállalatot megszüntetheti. (2) (3) Az Állami Vagyonügynökség igazgatótanácsa az érdekelt miniszterek,országos hatáskörű szervek vezetőinek,az alapító szerv vezetőjének,vagy a Vagyonügynökség ügyvezető igazgatójának javaslatára -a vagyonpolitikai irányelvek keretei között-elkrendelheti a vállalati tanács illetőleg a dolgozók közgyülése (küldöttggyülése) általános vezetése alatt álló állami vállalatnak államigazgatási felügyelet alá vonását abból a célból,hogy azt egy éven belül gazdasági társasággá alakítsák,vagy megszüntessék,vagyonát értékesítsék."
     },
     {
       "provision_ref": "s43",
-      "chapter": "VI. Fejezet - A vállalat megszűnése",
+      "chapter": "VI. Fejezet A vállalat megszűnése",
       "section": "43",
       "title": "43. §",
       "content": "43. § (1) A vállalat a cégjegyzékből való törléssel szűnik meg. (2) (4)"
     },
     {
       "provision_ref": "s44",
-      "chapter": "VI. Fejezet - A vállalat megszűnése",
+      "chapter": "VI. Fejezet A vállalat megszűnése",
       "section": "44",
       "title": "44. §",
       "content": "44. § (1) Ha a vállalat jogutód nélkül szűnik meg — a felszámolási eljárás esetét kivéve — végelszámolásnak van helye. (2) A megszűntető (megszűntnek nyilvánító) határozatban rendelkezni kell a végelszámoló kirendeléséről. A vállalat megszűntnek nyilvánítása esetén a végelszámolót a cégbíróság jelöli ki. (3) végelszámolónak a vállalat igazgatója (vagy más vezető állású dolgozója) jelölhető ki. Az alapító szerv, illetve a cégbíróság más személyt is kirendelhet. (4) A végelszámolás megindítását és a végelszámoló személyét, ha a végelszámolásra nem a cégbíróság kezdeményezésére kerül sor, bejegyzés és közzététel végett a cégbíróságnak be kell jelenteni."
     },
     {
       "provision_ref": "s44a",
-      "chapter": "VI. Fejezet - A vállalat megszűnése",
+      "chapter": "VI. Fejezet A vállalat megszűnése",
       "section": "44/A",
       "title": "44/A. §",
       "content": "44/A. § (1) A végelszámoló kirendelésétől kezdve a vállalat vagyonával kapcsolatos jogcselekményeket csak a végelszámoló tehet. (2) A végelszámoló felméri a vállalat vagyoni helyzetét, elkészíti a vállalat hitelezőinek jegyzékét, összeállítja a végelszámolási mérleget és ezeket jóváhagyás végett az alapító szervnek megküldi. (3) A jóváhagyást követően az eljárás befejezését a cégbíróságnak bejelenti és kéri a vállalat törlését a cégjegyzékből."
     },
     {
       "provision_ref": "s44b",
-      "chapter": "VI. Fejezet - A vállalat megszűnése",
+      "chapter": "VI. Fejezet A vállalat megszűnése",
       "section": "44/B",
       "title": "44/B. §",
       "content": "44/B. § A végelszámolásra egyebekben a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi IL. évi törvény IV. fejezete az irányadó."
     },
     {
       "provision_ref": "s45",
-      "chapter": "VII. Fejezet - A közüzemi vállalat",
+      "chapter": "VII. Fejezet A közüzemi vállalat",
       "section": "45",
       "title": "45. §",
       "content": "45. § (1) A közüzem feladata, hogy a közszükségletet kielégítő alapvető szolgáltatásokat folyamatosan biztosítsa. (2) A közüzemi vállalatok körét a Kormány állapítja meg. (3) Közüzemi vállalatokra a vállalatra vonatkozó rendelkezéseket e fejezetben foglalt eltérésekkel kell alkalmazni."
     },
     {
       "provision_ref": "s46",
-      "chapter": "VII. Fejezet - A közüzemi vállalat",
+      "chapter": "VII. Fejezet A közüzemi vállalat",
       "section": "46",
       "title": "46. §",
       "content": "46. § (1) Az alapító szerv a közüzem részére szolgáltatási kötelezettséget írhat elő. Az eszközátcsoportosítás tilalmáról, az utasítási jog korlátozásáról szóló rendelkezéseket közüzemre nem lehet alkalmazni. (2)"
     },
     {
       "provision_ref": "s46a",
-      "chapter": "VII. Fejezet - A közüzemi vállalat",
+      "chapter": "VII. Fejezet A közüzemi vállalat",
       "section": "46/A",
       "title": "46/A. §",
       "content": "46/A. § A kulturális szolgáltatást ellátó vállalatok irányítására, szervezetére és működésére az alapítói jogokat a 46. §-ban foglaltakon túlmenően sajátos szabályokat is megállapíthat."
     },
     {
       "provision_ref": "s47",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "47",
       "title": "47. §",
       "content": "47. § (1) A tröszt a tagvállalatokból és a trösztközpontból álló vállalatszerűen működő gazdálkodó szervezet. (2) A tröszt és az irányítása alatt működő tröszti vállalatok jogi személyek. (3) (4)"
     },
     {
       "provision_ref": "s48",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "48",
       "title": "48. §",
       "content": "48. § (1) A trösztöt a vezérigazgató, illetőleg az igazgatótanács vezeti. Az igazgatótanács a tröszt vezérigazgatójából és a tröszti vállalatok igazgatóiból áll. A létesítő határozat úgy rendelkezhet, hogy az állami költségvetéssel szembeni kötelezettségek teljesítése szempontjából egy gazdasági egységnek minősülő tröszti vállalatokat érintő ügyekben az igazgatótanács kizárólag a vezérigazgató és e vállalatok igazgatóinak részvételével is hozhat döntést. (2) A tröszt vezérigazgatójának és igazgató tanácsának jogkörét a létesítő határozatban kell megállapítani. A létesítő határozat úgy is rendelkezhet, hogy a tröszt jogkörét a tröszti vállalatok felett kizárólag az igazgató tanács gyakorolja."
     },
     {
       "provision_ref": "s49",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "49",
       "title": "49. §",
       "content": "49. § (1) A tröszt létesítő határozata felhatalmazhatja az igazgató tanácsot, illetve a vezérigazgatót arra, hogy a tröszti vállalatot meghatározott tevékenységre utasítsa, gazdálkodására kötelező irányelveket adjon, a tröszti vállalat vagyonát a tröszt hatékonyabb gazdálkodása érdekében átcsoportosítsa, illetőleg egyes tröszti vállalatokat az állami költségvetéssel szembeni kötelezettségek teljesítése szempontjából egy gazdasági egységnek minősítsen. Ebben az esetben a trösztnél olyan belső elszámolási és irányítási rendszert kell kialakítani és alkalmazni, amely biztosítja a) a tröszti vállalat szükséges gazdálkodási önállóságát és felelősségét, ideértve a saját döntésen alapuló beruházások lehetőségét is; b) a tröszti vállalat érdekeltségét gazdálkodási és fejlesztési tevékenysége eredményességében és saját tevékenységével arányban álló részesedését a tröszt eredményéből. (2) A tröszti vállalat vagyonának átcsoportosításához — ha bankkölcsöntartozása van — ki kell kérni a kölcsönt nyújtó pénzintézet véleményét."
     },
     {
       "provision_ref": "s50",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "50",
       "title": "50. §",
       "content": "50. § (1) A tröszt vezérigazgatóját — a tröszti igazgatótanács véleményét figyelembe véve — az alapító szerv nevezi ki és menti fel. (2) A tröszti vállalati igazgatóját a tröszt vezérigazgatója nevezi ki és menti fel. A tröszti vállalatok igazgatói felett a munkáltatói jogokat a vezérigazgató gyakorolja."
     },
     {
       "provision_ref": "s51",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "51",
       "title": "51. §",
       "content": "51. §"
     },
     {
       "provision_ref": "s52",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "52",
       "title": "52. §",
       "content": "52. § A trösztre az államigazgatási felügyelet alatt álló vállalatokra vonatkozó rendelkezéseket kell megfelelően alkalmazni, a tröszti vállalat a tröszt irányítása alatt áll."
     },
     {
       "provision_ref": "s52a",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "52/A",
       "title": "52/A. §",
       "content": "52/A. §"
     },
     {
       "provision_ref": "s53",
-      "chapter": "VIII. Fejezet - A tröszt",
+      "chapter": "VIII. Fejezet A tröszt",
       "section": "53",
       "title": "53. §",
-      "content": "53. § (1) E törvény nem érinti azokat a jogokat, amelyeket külön jogszabály a szakszervezetek részére biztosít. (2) Ez a törvény 1978. évi január hó 1. napján lép hatályba. Végrehajtásáról a Minisztertanács gondoskodik."
+      "content": "53. § (1) E törvény nem érinti azokat a jogokat, amelyeket külön jogszabály a szakszervezetek részére biztosít. (2) Ez a törvény 1978. évi január hó 1. napján lép hatályba. Végrehajtásáról a Minisztertanács gondoskodik. (3) 1 A kihirdetés napja: 1977. december 27. 2 A Vt. preambulumát e mondat kivételével az 1989: XIV. törvény 20. § (1) bekezdése és az 1992: LV. törvény 13. § (4) bekezdése hatályon kivül helyezte. 3 A Vt. 2. §-a az 1989: XIV. törvény 1. §-val megállapított szöveg. 4 A Vt. 3. § (1) bekezdése az 1989: XIV. törvény 20. § (1) bekezdésének megfelelően módosított szöveg. 5 A Vt. 3. § (2) bekezdését az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 6 A Vt. 3. § (3) bekezdését az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 7 A Vt. 3. § (4) bekezdését az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 8 A Vt. 4. §-át az 1989: XIV. tv 20. § (1) bekezdése hatályon kívül helyezte. 9 A Vt. 5. §-át az 1989: XIV. tv 20. § (1) bekezdése hatályon kívül helyezte. 10 A Vt. II. fejezetének címe az 1984: 22. törvényerejű rendelet 1. § (1) bekezdésével megállapított cím. 11 A 7. § az 1992: LV. törvény 3. §-ával megállapított szöveg. 12 Az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 13 Az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 14 Az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 15 A Vt. 10/A. §-át az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 16 A Vt. 10/B. §-át az 1990: LXXI. törvény 3. §-a (2) bekezdése hatályon kívül helyezte. 17 A 10/C. § az 1992: LV. törvény 4. §-ával megállapított szöveg. 18 A Vt. 10/C. § (5) bekezdése az 1997: CXLIV. törvény 320. §-ának b) pontja, a 2011: CCI. törvény 12. §-a szerint módosított szöveg. 19 A Vt. 11. §-át az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 20 A Vt. 12. § (1) és (3) bekezdése az 1984: 22. törvényerejű rendelet 4. §-val megállapított szöveg. 21 A Vt. 12. § (2) és (4) bekezdése az 1989: XIV. törvény 4. §-val megállapított szöveg. 22 A Vt. 12. § (5) bekezdését az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 23 A Vt. 13. §-a az 1984: 22. törvényerejű rendelet 5. §-ával megállapított szöveg. 24 A Vt. 14. §-át az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 25 A Vt. 15. § az 1984: 22. törvényerejű rendelet 6. §-val megállapított szöveg. 26 A Vt. 16. §-t az 1984: 22. törvényerejű rendelet 25. §-nak (1) bekezdése hatályon kívül helyezte. 27 A Vt. 17. §-t az 1984: 22. törvényerejű rendelet 25. §-nak (1) bekezdése hatályon kívül helyezte. 28 A Vt. 18. §-t az 1984: 22. törvényerejű rendelet 25. §-nak (1) bekezdése hatályon kívül helyezte. 29 A Vt. 19. §-a az 1989: XIV. törvény 5. §-val megállapított szöveg. 30 A Vt. 20. §-t az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 31 A Vt. 21. §-át az 1992: XXII. törvény 203. § (3) bekezdése hatályon kívül helyezte. 32 A Vt. 22. § (1) bekezdése az 1989: XIV. törvény 6. §-val megállapított szöveg. 33 A Vt. 22. § (3) bekezdés második mondatát az 1984: 22. törvényerejű rendelet 25. §-nak (1) bekezdése hatályon kívül helyezte. 34 A Vt. 22. § (4) bekezdése az 1992: LV. törvény 13. § (4) bekezdése szerint módosított szöveg. 35 A Vt. 23. §-a az 1984: 22. törvényerejű rendelet 9. §-val megállapított szöveg. 36 A Vt. 23. § g) pontja az 1989: XIV. törvény 20. § (1) bekezdésének, valamint az 1992: LV. törvény 13. § (4) bekezdésének megfelelően módosított szöveg. 37 A Tv. 23. § j) és k) pontját az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 38 A Tv. 23. § j) és k) pontját az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 39 A Vt. 24. § (1) bekezdését az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 40 A Vt. 25. § és 26. § számozását az 1989: XIV. törvény 7. §-a megváltoztatta. 41 A Vt. 25. § (1) bekezdése az 1992: LV. törvény 13. § (3) bekezdése szerint módosított szöveg. 42 A Vt. 25. § (2) bekezdését az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 43 A Vt. 26. §-a az 1984: 22. törvényerejű rendelet 10. §-val megállapított és az 1989: XIV. törvény 7. §-val módosított szöveg. 44 A Vt. 26. § (1) bekezdése az 1991: XVI. törvény 29. § (4) bekezdésével megállapított szöveg. 45 A Vt. 26. § (2) bekezdése az 1992: LV. törvény 13. § (3) bekezdése szerint módosított szöveg. 46 A Vt. 26/A. §-t az 1981: 20. törvényerejű rendelet 3. §-a iktatta be a törvény szövegébe. 47 A Vt. 27. § (1) bekezdése az 1984: 22. törvényerejű rendelet 11. §-val megállapított szöveg. 48 A Vt. 27. § (2)—(3) bekezdése az 1989: XIV. törvény 20. § (1) bekezdésének megfelelően módosított szöveg. A (4) bekezdést az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 49 A Vt. 27. § (2)—(3) bekezdése az 1989: XIV. törvény 20. § (1) bekezdésének megfelelően módosított szöveg. A (4) bekezdést az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 50 A Vt. 27. § (2)—(3) bekezdése az 1989: XIV. törvény 20. § (1) bekezdésének megfelelően módosított szöveg. A (4) bekezdést az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. 51 A Vt. 28. § az 1989: XIV. törvény 8. §-val megállapított, az 1992: LV. törvény 13. § (3) bekezdése szerint módosított szöveg. 52 A Vt. 28. § utáni címet és a Vt. 29. §-t az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 53 A Vt. 30. §-a az 1989: XIV. törvény 9. §-val megállapított szöveg. 54 Az V. fejezet címét és az azt követő alcímet az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 55 A Vt. 30/A. §-t az 1984: 22. törvényerejű rendelet 13. § iktatta be a törvény szövegébe. 56 A Vt. 30/A. § (1) bekezdés d) pontját az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 57 A Vt. 30/A. § (1) bekezdés f) pontját az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 58 Vt. 30/A. § (2) bekezdés szövegéből,,a törvényességi felügyeletet, valamint'' szövegrész és a (2) bekezdés utolsó mondata 1990. január 1. napjával hatályát vesztette az 1989: XIV. törvény 20. § (2) bekezdés alapján. 59 A Vt. 30/B. § az 1989: XIV. törvény 10. §-val megállapított szöveg. 60 A Vt. 30/B. § bekezdés a) pontját az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 61 A Vt. 30/C. §-t és az előtte levő címet az 1984: 22. törvényerejű rendelet 15. §-a iktatta be a törvény szövegébe. 62 A Vt. 30/C. § (1) bekezdés b) pontjában,,működése, továbbá'' szövegrész 1990. január 1. napján hatályát veszti az 1989: XIV. törvény 20. § (2) bekezdés alapján. 63 A Vt. 30/D. §-a az 1989: XIV. törvény 11. §-val megállapított szöveg. 64 A Vt. 31. §-át megelőző alcímet az 1992: LV. törvény 13. § (3) bekezdése állapította meg. 65 A Vt. 31. § (2) bekezdés d) pontjából az,,és az igazgatóhelyettesek'' szöveget az 1984: 22. törvényerejű rendelet 16. §-a hatályon kívül helyezte. 66 A Vt. 31. § (3) bekezdése a 2006: CIX. törvény 167. § (4) bekezdése szerint módosított szöveg. 67 A Vt. 32. §-át az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 68 A Vt. 33. §-át az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 69 A Vt. 34. § az 1984: 22. törvényerejű rendelet 17. §-ával megállapított szöveg. 70 A Vt. 34. § (1) bekezdése az 1992: LV. törvény 13. § (3) bekezdése szerint módosított szöveg. 71 A Vt. 35. §-t az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 72 A Vt. 36. §-a az 1981: 20. törvényerejű rendelet 5. §-val megállapított szöveg. Végrehajtására lásd a 24/1990. (VII. 13.) Korm. rendeletet. 73 A Vt. 34. § (1) bekezdése az 1992: LV. törvény 13. § (3) bekezdése szerint módosított szöveg. 74 A Vt. 37. §-át az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 75 A Vt. 38. §-át az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 76 A Vt. 39. §-át az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 77 A Vt. 40. §-a az 1989 XIV. törvény 12. §-val megállapított szöveg. 78 A Vt. 41. §-t az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 79 A Vt. VI. fejezetének címe az 1984: 22. törvényerejű rendelet 21. § (1) bekezdésével megállapított cím. 80 A Vt. 42. § (1) bekezdése az 1989: XIV. törvény 13. §-val megállapított szöveg. 81 A Vt. 42. § a) pontját az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 82 A Vt. 42. § (1) bekezdés e) pontjának rendelkezése 1990. január 1. napján lépett hatályba az 1989: XIV. törvény 19. § (2) bekezdése alapján. 83 Lásd az 1990: VII. törvény 12. § (1) bekezdését. 84 A Vt. 42. § (2) bekezdés a) pontja az 1992: LV. törvény 13. § (3) bekezdése szerint módosított szöveg. 85 A Vt. 42/A. §-t az 1989: XIV. törvény 14. §-a iktatta be a törvény szövegébe. A Magyar Közlöny 1989. évi 81. számában megjelent helyesbítésnek megfelelő szöveg. Lásd az 1990: VII. törvény 12. § (1) bekezdését. 86 A Vt. 42/A. § (1) bekezdése az 1992: LV. törvény 13. § (4) bekezdése szerint módosított szöveg. 87 A Vt. 42/A. § (2) bekezdését az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 88 A Vt. 42/A. § (3) bekezdése az 1990: LIII. törvény 9. §-ával megállapított szöveg. 89 A Vt. 43. §-a az 1989: XIV. törvény 15. §-ával megállapított szöveg. A rendelkezés az 1989: XIV. törvény 19. § (2) bekezdése alapján 1990. január 1. napján lép hatályba. 90 A Vt. 43. § (2) bekezdését az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 91 A Vt. 43. § (4) bekezdését az 1991: XX. törvény 59. § (2) bekezdése iktatta be, hatályon kívül helyezte az 1992: LV. törvény 13. § (4) bekezdése. 92 A Vt. 44-44/B. §-t az 1991: IL. törvény 83. § d) pontja iktatta be. 93 A Vt. 44-44/B. §-t az 1991: IL. törvény 83. § d) pontja iktatta be. 94 A Vt. 44-44/B. §-t az 1991: IL. törvény 83. § d) pontja iktatta be. 95 A Vt. 46. § (2) bekezdését az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 96 A Vt. 46/A. §-t az 1981: 20. törvényerejű rendelet 6. §-a iktatta be, szövege az 1992: LV. törvény 13. § (3) bekezdése szerint módosított szöveg. 97 Az 1989: XIV. törvény 19. § (2) bekezdése szerint 1989. július 1. után trösztöt csak a közüzemi vállalatok körében lehet létrehozni. 98 A Vt. 47. § (1) bekezdése az 1989: XIV. törvény 16. §-val megállapított, az 1992: LV. törvény 13. § (4) bekezdése szerint módosított szöveg. 99 A Vt. 47. § (3) bekezdését az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 100 A Vt. 47. § (4) bekezdését az 1992: LV. törvény 13. § (4) bekezdése hatályon kívül helyezte. 101 A Vt. 48. § (1) bekezdése az 1989: XIV. törvény 17. §-val megállapított szöveg. A (2) bekezdés az 1984: 22. törvényerejű rendelet 22. §-val megállapított szöveg. 102 A Vt. 49—50. §-a az 1984: 22. törvényerejű rendelet 22. §-val megállapított szöveg. 103 A Vt. 51. §-t az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 104 A Vt. 52. § az 1989: XIV. törvény 18. §-val megállapított szöveg. 105 A Vt. 52/A. §-t az 1984: 22. törvényerejű rendelet 25. § (1) bekezdése hatályon kívül helyezte. 106 A Vt. 53. § (1) bekezdése az 1984: 22. törvényerejű rendelet 25. § (1) bekezdésével megállapított szöveg. 107 A Vt. 53. § (2) bekezdése az 1992: LV. törvény 13. § (4) bekezdése szerint módosított szöveg. 108 A Vt. 53. § (3) bekezdését az 1989: XIV. törvény 20. § (1) bekezdése hatályon kívül helyezte. Változott rendelkezések Megváltozott Nincs változás Változni fog Nincs változás Eszköztár ELI Nyomtatás Másolás a vágólapra Nyomtatás Szerkezet Keresés Megnyitottak Eszköztár Változások Önkormányzati rendeletek Jogszabálykereső {{ page.title }} {{ page.shortDescription }}\"> {{ page.url }} Megnyitottak Megnyitottak {{ page.url }} Lap tetejére Kapcsolat Felhasználási feltételek Akadálymentesítési nyilatkozat PDF Adatkezelési tájékoztató © A Nemzeti Jogszabálytárban elérhető szövegek tekintetében az MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt. minden jogot fenntart! _ A cookie-k segítenek szolgáltatásaink biztosításában. Szolgáltatásaink igénybevételével Ön beleegyezik a cookie-k használatába. A cookie-k kezeléséről részletesebb információt ide kattintva olvashat. Elfogadom var njtConfig = { start: '/', cachedPageDataUrl: '/ajax/cachedPageData.json', searchUrl: '/ajax/get_search_url.json', onkormanyzatiSearchUrl: '/ajax/get_onkormanyzati_search_url.json', justificationSearchUrl: '/ajax/get_justification_search_url.json', documentTranslationSearchUrl: '/ajax/get_document_translation_search_url.json', internationalAgreementSearchUrl: '/ajax/get_international_agreement_search_url.json', loggerUrl: '/ajax/logger.json', collectAllDocumentVersion: '/ajax/collectAllDocumentVersion.json', collectDocumentVhrVersion: '/ajax/collectDocumentVhrVersion.json', documentVersions: '/ajax/getDocumentVersions.json', currentDocumentFromAbbr: '/ajax/getCurrentDocumentFromAbbr.json', documentVersionsFromAbbr: '/ajax/getDocumentVersionsFromAbbr.json', documentConfig: '/ajax/config.json', documentUrl: '/jogszabaly', tagSearch: '/ajax/tags.json', getBlock: '/ajax/njtGetBlock.json', searchInText: '/ajax/searchInText.json', modifyAccount: '/account/registration/modify.json', searchInSections: '/ajax/njt_search_in_sections.json', printWindowSkeleton: '/ajax/getPrintWindow', organisationGetPrintableDatas: '/organisation/print_datas.json/', simpleSearchPredict: '/ajax/simple_predict.json', acceptCookieLaw: '/ajax/acl.json', getMessage: '/ajax/message.json', acceptMessage: '/ajax/accept_message.json', exportWindowSkeleton: '/ajax/getExportWindow', acceptCookieLawName: 'acceptCookieLaw', sidemenu: '/ajax/sidemenu/:id', requirements: [], isLoggedIn: false, indokolasSearchPrefix: '𝒿', onkormanyzatSearchPrefix: 'ℴ', pagebarMarkArchivum: '𝒶', pagebarMarkFogalomtar: '𝒻', pagebarMarkElethelyzet: '𝓮', pagebarMarkElethelyzetTerulet: '𝓽', pagebarMarkTopic: '𝓴', loadQuestion: '/elethelyzet/question', getAllElethelyzet: '/elethelyzet/index', lazyModeLoggedOut: false, valtozasJelzesekVersions: '/ajax/getValtozasJelzesekVersions.json', getTelepulesKibocsatoByMegye: '/getTelepulesKibocsatoByMegye.json', szakaszSliceType: 'SZAKASZ', mellekletCimkeSliceType: 'SZAKASZ', jogszabalyHighlight: '/ajax/jogszabaly_highlight', getElethelyzetData: '/elethelyzet/getElethelyzetData.json', getElethelyzetTeruletData: '/elethelyzet/getElethelyzetTeruletData.json', getTopicSearchListForHater: '/getTopicSearchList.json', }; var njtTranslate = { cancel: 'Mégsem', ok: 'Rendben', send: 'Küldés', login: 'Belépés', gazette_state: 'Közlönyállapot', hatalyos: 'Hatályos', meg_nem_hatalyos: 'Még nem hatályos', nemIsmert: 'Nem ismert', nemLepettHatalyba: 'Nem lépett hatályba', closeWindowText: 'Biztosan elnavigál az oldalról?', szervezetAdminCaption: 'Szervezeti adminisztrátor adatai:', datepickerPlaceholder: 'éééé.hh.nn', sectionFinder: 'Paragrafusra ugrás', noSectionFound: 'Nem található a keresési feltételeknek megfelelő paragrafus', documentInfo: 'Jogszabályinfó', documentSampleAddWindowTitle: 'Jogszabály adatai', footnoteTitle: 'Lábjegyzetek', figyelem: 'Figyelem!', figyelemMessage: 'A szolgáltatások igénybevételéhez jelentkezzen be!', jogszabalyLoginTitle: 'A jogszabály megtekintéséhez jelentkezzen be!', jogszabalyLoginMessage: 'A hivatkozott jogszabály, jogszabályi időállapot a Nemzeti Jogszabálytár regisztrációval vagy ügyfélkapus bejelentkezéssel használható szolgáltatási szintjén érhető el [338/2011. (XII. 29.) Korm. rendelet 2. § (1) bekezdése alapján].', jogszabalyMissingMessage: 'A hivatkozott jogi dokumentum nem áll rendelkezésre.', sessionMessage: 'A munkamenet múlva lejár és automatikusan ki lesz léptetve. A meghosszabbításhoz kattintson a tovább gombra.', csrfExpired: 'Lejárt a munkamenet, kérjük jelentkezzen be újra.', orgRegistrationFileUploadError: 'Kérjük, töltse fel az aláírt regisztrációs lapot', registrationHandleTitle: 'Elfogadja a regisztrációt?', registrationHandleSubTitle: 'Elutasítás esetén, kérjük, adja meg a elutasítás okát. Erről a regisztráló felhasználót e-mailben értesítjük.', registrationCreated: 'Sikeres regisztráció', registrationModified: 'Sikeres módosítás', registrationMergeError: 'Regisztrált felhasználók összefésülése sikertelen', underProcessWarning: 'A jogszabály feldolgozás alatt van, a felület korlátozottan használható', metaDescription: 'Magyarország hivatalos, hiteles, ingyenesen használható jogszabálygyűjteménye, az MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt. gondozásában', metaTitle: 'Nemzeti Jogszabálytár – MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt.', hiba: 'Hiba', noMoreResults: 'Nincs több találat', noResult: 'Nincs találat', nemMegfelelo: 'Nem megfelelő', evszam: 'évszám', lekerdezesIdeje: 'Lekérdezés ideje', kivonat: 'KIVONAT', iratminta: 'iratminta', errorNeedReload: 'HIBA! Újratöltés szükséges!', beforeDeleteLawRequest: 'Biztosan törölni szeretné jogszabály igénylését?', lawRequest: 'Jogszabály igénylés', igen: 'Igen', nem: 'Nem', tablazatKinyitasa: 'Táblázat kinyitása', emailCim: 'E-mail cím', giveYourEmailAddress: 'Adja meg az e-mail címét', informacio: 'Információ', successfulModification: 'Sikeres módosítás!', maganszemely: 'Magánszemély', unsuccessfulExport: 'Sikertelen exportálás', unsuccessfulCopy: 'Sikertelen másolás', copiedToClipboard: 'Kimásolva a vágólapra', documentTranslations: 'Jogszabályfordítások', internationalAgreements: 'Nemzetközi szerződések', kozismertJogszabalyok: 'Közismert jogszabályok', registration: 'Regisztráció', accountSettings: 'Fiók módosítás', simpleSearch: 'Jogszabálykereső', cif: 'Adott napon hatályba lépő jogszabályok', expired: 'Adott napon hatályukat vesztő jogszabályok', info: 'Információ', justificationSearch: 'Indokolások Tára', popupHeader: 'Karbantartás', popupMessage: 'Tájékoztatjuk Tisztelt Felhasználóinkat, hogy technikai karbantartás miatt 2023. április 25-én 20:00-21:00 óra között a Nemzeti Jogszabálytár Ügyfélkapus bejelentkezéssel történő használatában fennakadások várhatók.', privacy: 'Adatkezelési tájékoztató' };"
     }
   ],
   "definitions": []

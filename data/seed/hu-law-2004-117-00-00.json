@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2004. évi CXVII. törvény az Országos Rádió és Televízió Testület 2005. évi költségvetéséről",
   "status": "in_force",
-  "in_force_date": "2005-01-01",
   "url": "https://njt.hu/jogszabaly/2004-117-00-00",
-  "description": "az Országos Rádió és Televízió Testület 2005. évi költségvetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -36,6 +35,12 @@
       "section": "5",
       "title": "5. §",
       "content": "5. § Az ORTT jogosult az ezen törvényben jóváhagyott költségvetések kiadási előirányzatai közötti átcsoportosításra."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "6. §",
+      "content": "6. § Ez a törvény 2005. január 1-jén lép hatályba. Az Országos Rádió és Televízió Testület 2005. évi költségvetésének kiadási oldala Költségvetésen kívüli ORTT kezelésű 2005. évi kiadási előirányzat Az Országos Rádió és Televízió Testület 2005. évi költségvetésének bevételi oldala Költségvetésen kívüli ORTT kezelésű 2005. évi bevételi előirányzat Millió forintban"
     }
   ],
   "definitions": []

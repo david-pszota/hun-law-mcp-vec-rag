@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2010. évi CXVII. törvény a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről",
   "status": "in_force",
-  "in_force_date": "2010-12-05",
   "url": "https://njt.hu/jogszabaly/2010-117-00-00",
-  "description": "a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -170,6 +169,12 @@
       "content": "14/D. § A 11. § (1a) bekezdés szerinti adatszolgáltatásra kötelezett 2021. évben 2021. szeptember 1. napjáig tesz eleget a 11. § (1a) bekezdés szerinti kötelezettségének."
     },
     {
+      "provision_ref": "s14e",
+      "section": "14/E",
+      "title": "14/E. §",
+      "content": "14/E. § Az 5. § (4) bekezdés c) pontjától eltérően a kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni a felszabadított biztonsági kőolajkészletből szabad forgalomba hozott üzemanyagot."
+    },
+    {
       "provision_ref": "s15",
       "section": "15",
       "title": "15. §",
@@ -192,6 +197,12 @@
       "section": "16",
       "title": "16. §",
       "content": "16. §"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "17. §",
+      "content": "17. §"
     }
   ],
   "definitions": [

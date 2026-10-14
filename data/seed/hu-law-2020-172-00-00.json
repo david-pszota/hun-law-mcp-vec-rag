@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2020. évi CLXXII. törvény egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási tárgyú törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2020-12-23",
   "url": "https://njt.hu/jogszabaly/2020-172-00-00",
-  "description": "egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási tárgyú törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -179,7 +178,7 @@
       "provision_ref": "s29",
       "section": "29",
       "title": "29. §",
-      "content": "29. § 1. melléklet a 2020. évi CLXXII. törvényhez"
+      "content": "29. § ” ” ”"
     }
   ],
   "definitions": []

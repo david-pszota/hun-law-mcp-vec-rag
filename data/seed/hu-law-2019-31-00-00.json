@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2019. évi XXXI. törvény a Nemzetközi Gyermekmentő Szolgálat Magyar Egyesület tevékenységével érintett egyes állami tulajdonú ingatlanok vagyonkezelésének rendezéséről",
   "status": "in_force",
-  "in_force_date": "2019-04-19",
   "url": "https://njt.hu/jogszabaly/2019-31-00-00",
-  "description": "a Nemzetközi Gyermekmentő Szolgálat Magyar Egyesület tevékenységével érintett egyes állami tulajdonú ingatlanok vagyonkezelésének rendezéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -71,7 +70,7 @@
       "provision_ref": "s10",
       "section": "10",
       "title": "10. §",
-      "content": "10. § 1. melléklet a 2019. évi XXXI. törvényhez"
+      "content": "10. §"
     }
   ],
   "definitions": [

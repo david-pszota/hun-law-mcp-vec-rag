@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2009. évi CXXII. törvény a köztulajdonban álló gazdasági társaságok takarékosabb működéséről",
   "status": "in_force",
-  "in_force_date": "2009-12-04",
   "url": "https://njt.hu/jogszabaly/2009-122-00-00",
-  "description": "a köztulajdonban álló gazdasági társaságok takarékosabb működéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -156,6 +155,12 @@
       "section": "11",
       "title": "11. §",
       "content": "11. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg a köztulajdonban álló gazdasági társaságok belső kontrollrendszerére vonatkozó részletszabályokat, valamint a köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat. (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 7/M. § szerinti elektronikus kapcsolattartásra kötelezett gazdasági társaságok körét, továbbá az elektronikus kapcsolattartás e gazdasági társaságokra vonatkozó részletes szabályait. (2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a bejelentések alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények részletes szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "12. §",
+      "content": "12. § A 7/J. § a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9–10. cikkének, valamint a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja."
     }
   ],
   "definitions": [

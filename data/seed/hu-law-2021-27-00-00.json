@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi XXVII. törvény az Egységes Szanálási Rendszerhez kapcsolódó kormányközi megállapodás módosításáról szóló megállapodás kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2021-05-07",
   "url": "https://njt.hu/jogszabaly/2021-27-00-00",
-  "description": "az Egységes Szanálási Rendszerhez kapcsolódó kormányközi megállapodás módosításáról szóló megállapodás kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -36,6 +35,12 @@
       "section": "5",
       "title": "5. §",
       "content": "5. § E törvény végrehajtásához szükséges intézkedésekről a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter gondoskodik."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "6. §",
+      "content": "6. § A Egységes Szanálási Rendszerhez kapcsolódó kormányközi megállapodásnak a Megállapodással egységes szerkezetbe foglalt, hiteles magyar nyelvű szövegének közzétételéről a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter gondoskodik."
     }
   ],
   "definitions": []

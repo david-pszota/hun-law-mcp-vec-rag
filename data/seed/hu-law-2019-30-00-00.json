@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2019. évi XXX. törvény a Maecenas Universitatis Corvini Alapítványról, a Maecenas Universitatis Corvini Alapítvány és a Budapesti Corvinus Egyetem részére történő vagyonjuttatásról",
   "status": "in_force",
-  "in_force_date": "2019-04-12",
   "url": "https://njt.hu/jogszabaly/2019-30-00-00",
-  "description": "a Maecenas Universitatis Corvini Alapítványról, a Maecenas Universitatis Corvini Alapítvány és a Budapesti Corvinus Egyetem részére történő vagyonjuttatásról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -59,7 +58,7 @@
       "provision_ref": "s9",
       "section": "9",
       "title": "9. §",
-      "content": "9. § A 6. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül. 1. melléklet a 2019. évi XXX. törvényhez"
+      "content": "9. § A 6. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

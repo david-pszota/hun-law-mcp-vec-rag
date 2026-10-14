@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2015. évi LXXXIV. törvény a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról",
   "status": "in_force",
-  "in_force_date": "2015-07-01",
   "url": "https://njt.hu/jogszabaly/2015-84-00-00",
-  "description": "a Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s14",
@@ -36,6 +35,12 @@
       "section": "8",
       "title": "8. §",
       "content": "8. §"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "9. §",
+      "content": "9. §"
     }
   ],
   "definitions": []

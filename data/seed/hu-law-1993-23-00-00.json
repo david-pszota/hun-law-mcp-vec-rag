@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "1993. évi XXIII. törvény a Nemzeti Kulturális Alapról",
   "status": "in_force",
-  "in_force_date": "1993-04-01",
   "url": "https://njt.hu/jogszabaly/1993-23-00-00",
-  "description": "a Nemzeti Kulturális Alapról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -132,6 +131,12 @@
       "section": "10/B",
       "title": "10/B. §",
       "content": "10/B. § (1) Az e törvénynek a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény és a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény módosításáról szóló 2015. évi CCVII. törvénnyel (a továbbiakban: Módtv.) megállapított 2. § (3) bekezdésében, 2. § (4) bekezdésében és 2. § (4a) bekezdésében meghatározott kollégiumi struktúrát 2016. január 1-ig kell létrehozni. (2) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási és pénzügyi tárgyú törvények módosításáról szóló 2020. évi CLXXIII. törvénnyel megállapított 8. § (2) bekezdésében foglaltakat az e rendelkezés hatálybalépésekor folyamatban levő támogatási igények esetén is alkalmazni kell, amennyiben támogatási szerződés megkötésére még nem került sor."
+    },
+    {
+      "provision_ref": "s10c",
+      "section": "10/C",
+      "title": "10/C. §",
+      "content": "10/C. §"
     }
   ],
   "definitions": []

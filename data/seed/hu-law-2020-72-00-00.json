@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2020. évi LXXII. törvény a Színház- és Filmművészetért Alapítványról, a Színház- és Filmművészetért Alapítvány és a Színház- és Filmművészeti Egyetem részére történő vagyonjuttatásról",
   "status": "in_force",
-  "in_force_date": "2020-07-09",
   "url": "https://njt.hu/jogszabaly/2020-72-00-00",
-  "description": "a Színház- és Filmművészetért Alapítványról, a Színház- és Filmművészetért Alapítvány és a Színház- és Filmművészeti Egyetem részére történő vagyonjuttatásról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -125,7 +124,7 @@
       "provision_ref": "s9",
       "section": "9",
       "title": "9. §",
-      "content": "9. § 1. melléklet a 2020. évi LXXII. törvényhez"
+      "content": "9. §"
     }
   ],
   "definitions": []

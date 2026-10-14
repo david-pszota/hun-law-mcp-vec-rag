@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi LXXXIX. törvény Magyarország 2022. évi központi költségvetésének megalapozásáról",
   "status": "in_force",
-  "in_force_date": "2021-07-02",
   "url": "https://njt.hu/jogszabaly/2021-89-00-00",
-  "description": "Magyarország 2022. évi központi költségvetésének megalapozásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -390,6 +389,12 @@
       "section": "64",
       "title": "64. §",
       "content": "64. § E törvény 1. 18. §-a az Alaptörvény 31. cikk (3) bekezdése, és 2. 60. § (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "65. §",
+      "content": "65. § E törvény 11–14. §-a a 883/2013/EU, Euratom rendeletnek az Európai Ügyészséggel való együttműködés és az Európai Csalás Elleni Hivatal vizsgálatai hatékonysága tekintetében történő módosításáról szóló 2020. december 23-i (EU, Euratom) 2020/2223 európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja."
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2006. évi LXV. törvény az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2006-08-24",
   "url": "https://njt.hu/jogszabaly/2006-65-00-00",
-  "description": "az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -120,6 +119,12 @@
       "section": "16",
       "title": "16. §",
       "content": "16. §"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "17. §",
+      "content": "17. §"
     }
   ],
   "definitions": []

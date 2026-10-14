@@ -2,10 +2,9 @@
   "id": "hu-law-2012-190-00-00",
   "type": "statute",
   "title": "2012. évi CXC. törvény egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, valamint önkormányzatokat érintő egyes törvények módosításáról",
-  "status": "in_force",
-  "in_force_date": "2012-12-08",
+  "status": "amended",
   "url": "https://njt.hu/jogszabaly/2012-190-00-00",
-  "description": "egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, valamint önkormányzatokat érintő egyes törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -24,6 +23,12 @@
       "section": "1/B",
       "title": "1/B. §",
       "content": "1/B. § Az ingatlanrész e törvény erejénél fogva, az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény hatálybalépésével, vagyonkezelési szerződés kötése nélkül, ingyenesen a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésébe kerül."
+    },
+    {
+      "provision_ref": "s1c",
+      "section": "1/C",
+      "title": "1/C. §",
+      "content": "1/C. § Budapest Főváros Önkormányzatának a Budapest 232045/3, 232045/5, 232045/6, 224969/1, 224969/2 és 224969/3 helyrajzi számú ingatlan fennálló vagyonkezelői joga e törvény erejénél fogva 2026. július 1-jével megszűnik."
     },
     {
       "provision_ref": "s2",
@@ -71,7 +76,13 @@
       "provision_ref": "s9",
       "section": "9",
       "title": "9. §",
-      "content": "9. § E törvény a) 1. § (1) bekezdése és 1/B. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése, b) 3. §-a, 6. §-a és 8. §-a az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül. 1. melléklet a 2012. évi CXC. törvényhez"
+      "content": "9. § E törvény a) 1. § (1) bekezdése és 1/B. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése, b) 3. §-a, 6. §-a és 8. §-a az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "10. §",
+      "content": "10. § (1) A fővárosi önkormányzat az 1/C. §-a szerinti vagyonkezelési jog megszűnése kapcsán az érintett tulajdonosi joggyakorlókkal elszámol. (2) A vagyonkezelési jog ingatlan-nyilvántartásból való törléséről e törvényre való hivatkozással az ingatlanok tulajdonosi joggyakorlója intézkedik."
     }
   ],
   "definitions": []

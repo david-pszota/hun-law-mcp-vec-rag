@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2023. évi XXXVIII. törvény a hivatásos szolgálati jogviszonnyal összefüggő, valamint a nyilvántartásokkal kapcsolatos egyes törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2023-06-24",
   "url": "https://njt.hu/jogszabaly/2023-38-00-00",
-  "description": "a hivatásos szolgálati jogviszonnyal összefüggő, valamint a nyilvántartásokkal kapcsolatos egyes törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -684,6 +683,12 @@
       "section": "113",
       "title": "113. §",
       "content": "113. § Az 1. alcím, a 15. §, a 10. alcím, a 11. alcím, a 13. alcím, a 46–53. §, a 67. §, a 68. § a) pontja, a 69. § a), d) és e) pontja, a 70. §, a 72. §, a 21. alcím, a 22. alcím és a 28. alcím a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való beutazásának és tartózkodásának feltételeiről és a 2009/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2021. október 20-i (EU) 2021/1883 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
+    },
+    {
+      "provision_ref": "s114",
+      "section": "114",
+      "title": "114. §",
+      "content": "114. § A 65. § és a 29. alcím az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg."
     }
   ],
   "definitions": []

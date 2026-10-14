@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2006. évi XLVIII. törvény a gyümölcsös ültetvények, valamint a gyümölcsös ültetvény méretet el nem érő, gyümölcsfával betelepített területek összeírásáról",
   "status": "in_force",
-  "in_force_date": "2006-03-16",
   "url": "https://njt.hu/jogszabaly/2006-48-00-00",
-  "description": "a gyümölcsös ültetvények, valamint a gyümölcsös ültetvény méretet el nem érő, gyümölcsfával betelepített területek összeírásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -42,6 +41,12 @@
       "section": "4",
       "title": "4. §",
       "content": "4. § (1) E törvény a kihirdetését követő 15. napon lép hatályba. (2)"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "5. §",
+      "content": "5. § Ez a törvény az ültetvényekre vonatkozó európai statisztikákról, valamint a 357/79/EGK tanácsi rendelet és a 2001/109/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. december 13-i 1337/2011/EU rendeletnek való megfelelést szolgálja."
     }
   ],
   "definitions": []

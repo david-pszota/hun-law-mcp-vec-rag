@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi CXX. törvény egyes eljárások korszerűsítését és a polgárok biztonságának további megerősítését célzó intézkedésekről",
   "status": "in_force",
-  "in_force_date": "2021-12-02",
   "url": "https://njt.hu/jogszabaly/2021-120-00-00",
-  "description": "egyes eljárások korszerűsítését és a polgárok biztonságának további megerősítését célzó intézkedésekről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -606,6 +605,12 @@
       "section": "100",
       "title": "100. §",
       "content": "100. § A 62. § a) az uniós űrprogram és az Európai Unió Űrprogramügynökségének a létrehozásáról, valamint a 912/2010/EU, az 1285/2013/EU és a 377/2014/EU rendelet és az 541/2014/EU határozat hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/696 európai parlamenti és tanácsi rendelet, valamint b) az uniós űrprogram keretében kiépített, üzemeltetett és használt, az Unió biztonságát esetleg befolyásoló rendszerek és szolgáltatások biztonságáról és a 2014/496/KKBP határozat hatályon kívül helyezéséről szóló, 2021. április 30-i (KKBP) 2021/698 tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg."
+    },
+    {
+      "provision_ref": "s101",
+      "section": "101",
+      "title": "101. §",
+      "content": "101. § A 19. alcím az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2015. évi LXXXIX. törvény a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről",
   "status": "in_force",
-  "in_force_date": "2015-07-01",
   "url": "https://njt.hu/jogszabaly/2015-89-00-00",
-  "description": "a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s13",
@@ -48,6 +47,12 @@
       "section": "8",
       "title": "8. §",
       "content": "8. §"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "9. §",
+      "content": "9. §"
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2023. évi III. törvény az egyrészről az Európai Unió és tagállamai, másrészről a Thaiföldi Királyság közötti Átfogó Partnerségi és Együttműködési Keretmegállapodás kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2023-03-17",
   "url": "https://njt.hu/jogszabaly/2023-3-00-00",
-  "description": "az egyrészről az Európai Unió és tagállamai, másrészről a Thaiföldi Királyság közötti Átfogó Partnerségi és Együttműködési Keretmegállapodás kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -30,6 +29,12 @@
       "section": "4",
       "title": "4. §",
       "content": "4. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba. (2) A 2. §, a 3. §, valamint az 1. melléklet a Megállapodás 59. CIKK 1. pontjában foglalt időpontban lép hatályba. (3) A Megállapodás, a 2. §, a 3. §, valamint az 1. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "5. §",
+      "content": "5. § Az e törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik."
     }
   ],
   "definitions": []

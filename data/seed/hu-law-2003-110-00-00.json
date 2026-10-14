@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2003. évi CX. törvény a regisztrációs adóról",
   "status": "in_force",
-  "in_force_date": "2004-02-01",
   "url": "https://njt.hu/jogszabaly/2003-110-00-00",
-  "description": "a regisztrációs adóról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -197,7 +196,7 @@
       "provision_ref": "s22",
       "section": "22",
       "title": "22. §",
-      "content": "22. § Melléklet a 2003. évi CX. törvényhez I. rész Adótételek az egyes adókategóriákban, mely a táblázatban szereplő szorzószámok és 45 000 Ft szorzataként adódik. 1. Személygépkocsik esetén Adó- kate- gória Teljesítmény (kW) Adótétel szorzószáma [A személygépkocsi környezetvédelmi osztályba sorolása a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KÖHÉM rendelet 5. számú mellékletének II. pontja szerint] a) 14-nél jobb és 2020. december 31-ét követően helyezték első alkalommal forgalomba belföldön vagy külföldön b) hibrid hajtású személygépkocsi 14-nél jobb 12–14 9–11 8 vagy annál rosszabb 1. 0–80 1 1,5 6 12 24 2. 81–100 1,5 2,25 9 18 36 3. 101–120 2 3 12 24 48 4. 121–140 3 4,5 18 36 72 5. 141–180 4 6 24 48 96 6. 181–250 6 9 36 72 144 7. 250-nél több 9 13,5 54 108 216 8. A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezet-védelmi osztályba sorolása: 5E, 5Z) 0"
+      "content": "22. § 1. Személygépkocsik esetén Adó- kate- gória Teljesítmény (kW) Adótétel szorzószáma [A személygépkocsi környezetvédelmi osztályba sorolása a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KÖHÉM rendelet 5. számú mellékletének II. pontja szerint] a) 14-nél jobb és 2020. december 31-ét követően helyezték első alkalommal forgalomba belföldön vagy külföldön b) hibrid hajtású személygépkocsi 14-nél jobb 12–14 9–11 8 vagy annál rosszabb 1. 0–80 1 1,5 6 12 24 2. 81–100 1,5 2,25 9 18 36 3. 101–120 2 3 12 24 48 4. 121–140 3 4,5 18 36 72 5. 141–180 4 6 24 48 96 6. 181–250 6 9 36 72 144 7. 250-nél több 9 13,5 54 108 216 8. A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezet-védelmi osztályba sorolása: 5E, 5Z) 0 2. Motorkerékpárok esetén Adókategória Teljesítmény (kW) Adótétel szorzószáma 1. 0–10 1 2. 11–40 2 3. 41–70 4 4. 70-nél több 5 6. Elektromos meghajtású motorkerékpárok 0 A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti. Az adó összegét a vámhatóság az alábbi táblázat szerinti arányban csökkenti. A számításnál minden megkezdett hónap egész hónapnak minősül. E melléklet alkalmazásában forgalomba helyezés alatt a közlekedési hatóság által lefolytatott eljárásban, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon vagy az egyedi forgalomba helyezési engedélyen rögzített első forgalomba helyezés vagy az első hazai nyilvántartásba vétel időpontja értendő. Ezen adatok hiányában a gépjármű esetében e melléklet I. részében meghatározott adótételek e melléklet II. részében található előírások figyelembevétele nélkül alkalmazandók. A Műszaki adatlap meglétét és adatai valódiságát a vámhatóság a Nemzeti Közlekedési Hatóság és a vámhatóság között fennálló elektronikus adatkapcsolaton keresztül ellenőrzi. Az adó összege a flotta-üzemeltető által bérbe adott személygépkocsi vonatkozásában"
     }
   ],
   "definitions": [

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "1992. évi XXXI. törvény a kárpótlási jegyek életjáradékra váltásáról",
   "status": "in_force",
-  "in_force_date": "1992-05-29",
   "url": "https://njt.hu/jogszabaly/1992-31-00-00",
-  "description": "a kárpótlási jegyek életjáradékra váltásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -83,7 +82,7 @@
       "provision_ref": "s13",
       "section": "13",
       "title": "13. §",
-      "content": "13. § (1) E törvény a kihirdetés napján lép hatályba. (2) Ha a jogosultnak a kárpótlási jegy felvételére jogosító határozatot e törvény hatálybalépése előtt kézbesítették, a 3. § (1) bekezdésében foglalt 90 napos határidőt e törvény hatálybalépésétől kell számítani. Melléklet az 1992. évi XXXI. törvényhez"
+      "content": "13. § (1) E törvény a kihirdetés napján lép hatályba. (2) Ha a jogosultnak a kárpótlási jegy felvételére jogosító határozatot e törvény hatálybalépése előtt kézbesítették, a 3. § (1) bekezdésében foglalt 90 napos határidőt e törvény hatálybalépésétől kell számítani. A táblázatban lévő életjáradéki összegek tartalmazzák a kárpótlási jegyeknek az 1991. évi XXV. törvény 5. §-ának (3) bekezdése szerinti kamatozási idejének lejártáig járó kamatát, valamint az 1992. évi LXXX. törvény 54. §-a szerint kiszámított 6%-os és az 1993. évi CXI. törvény 53. §-a szerint kiszámított 18%-os emelést. A 100 000 Ft-tól eltérő címletértékű kárpótlási jegy átruházása esetén a járadék összege arányosan változik."
     }
   ],
   "definitions": []

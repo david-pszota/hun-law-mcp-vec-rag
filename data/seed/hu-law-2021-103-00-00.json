@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi CIII. törvény a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2021-09-30",
   "url": "https://njt.hu/jogszabaly/2021-103-00-00",
-  "description": "a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -198,6 +197,12 @@
       "section": "32",
       "title": "32. §",
       "content": "32. §"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "33. §",
+      "content": "33. §"
     }
   ],
   "definitions": []

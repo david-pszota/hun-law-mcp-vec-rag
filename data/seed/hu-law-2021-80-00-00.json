@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi LXXX. törvény a Budapest Diákváros megvalósításáról",
   "status": "in_force",
-  "in_force_date": "2021-06-25",
   "url": "https://njt.hu/jogszabaly/2021-80-00-00",
-  "description": "a Budapest Diákváros megvalósításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -96,6 +95,12 @@
       "section": "14",
       "title": "14. §",
       "content": "14. §"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "15. §",
+      "content": "15. §"
     }
   ],
   "definitions": []

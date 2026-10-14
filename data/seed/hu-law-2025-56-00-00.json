@@ -3,107 +3,113 @@
   "type": "statute",
   "title": "2025. évi LVI. törvény a használatidíj-rendszerben és az útdíjrendszerben ellátott közfeladatok biztosításáról és egyes kapcsolódó törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-07-01",
   "url": "https://njt.hu/jogszabaly/2025-56-00-00",
-  "description": "a használatidíj-rendszerben és az útdíjrendszerben ellátott közfeladatok biztosításáról és egyes kapcsolódó törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
-      "chapter": "I. Fejezet",
+      "chapter": "I. Fejezet ÁLTALÁNOS RENDELKEZÉSEK, VALAMINT A HASZNÁLATIDÍJ-RENDSZER ÉS AZ ÚTDÍJRENDSZER ÜZEMELTETÉSE ÉS FEJLESZTÉSE",
       "section": "1",
       "title": "1. §",
       "content": "1. § E törvény rendelkezéseit kell alkalmazni a) az útdíjszolgáltatási gazdasági társaság által a használatidíj-rendszer üzemeltetése és fejlesztése tárgyában kötött szerződésekre, valamint b) az útdíjszedő, az útdíjellenőrzés-támogatói feladatok ellátására kijelölt szervezet, és az egyetemes útdíjszolgáltató által az útdíjrendszer üzemeltetése és fejlesztése tárgyában kötött szerződésekre."
     },
     {
       "provision_ref": "s2",
-      "chapter": "I. Fejezet",
+      "chapter": "I. Fejezet ÁLTALÁNOS RENDELKEZÉSEK, VALAMINT A HASZNÁLATIDÍJ-RENDSZER ÉS AZ ÚTDÍJRENDSZER ÜZEMELTETÉSE ÉS FEJLESZTÉSE",
       "section": "2",
       "title": "2. §",
       "content": "2. § E törvény alkalmazásában 1. bevallási közreműködő: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben meghatározott bevallási közreműködő; 2. egyetemes útdíjszolgáltató: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény végrehajtásáról szóló kormányrendeletben egyetemes útdíjszolgáltatóként kijelölt szervezet; 3. fejlesztés: jogszabályi előírás alapján meghatározott üzleti igény kielégítése érdekében informatikai eszköz, szoftver, alkalmazásfejlesztés és az ezekhez kapcsolódó szolgáltatás fejlesztése vagy beszerzése; 4. felhőszolgáltatás: olyan informatikai szolgáltatás, amely önkiszolgáló módon történő hálózati hozzáférést tesz lehetővé igény szerint méretezhető, megosztott fizikai vagy virtuális erőforrások rugalmas készletéhez; 5. használatidíj-rendszer: a közúti közlekedésről szóló 1988. évi I. törvényben (a továbbiakban: Kkt.) meghatározott használati díjak és pótdíjak beszedését, a megfizetésükhöz kapcsolódó korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzést lehetővé tévő elektronikus rendszer, hardver- és szoftverelemek összessége; 6. rendszertámogatás: az a szolgáltatás, amelynek célja a kijelölt szervezet informatikai rendszereinek – ideértve a hardvereszközöket, szoftveralkalmazásokat, hálózati infrastruktúrát és információbiztonsági megoldásokat – működésének fenntartása, optimalizálása, hibajavítása, frissítése, valamint a felhasználók technikai támogatása; 7. útdíjbevallás: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben meghatározott útdíjbevallás; 8. útdíjellenőrzés-támogatói feladatok ellátására kijelölt szervezet: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény végrehajtásáról szóló kormányrendeletben az útdíjellenőrzés-támogatói feladatok ellátására kijelölt szervezet; 9. útdíjrendszer: az útdíjbevallást, az útdíj kivetését, beszedését, az útdíj megfizetése és az útdíjköteles elemi útszakaszok jogszerű használata ellenőrzésének támogatását lehetővé tévő elektronikus rendszer, hardver- és szoftverelemek összessége, ideértve az útdíjrendszernek a bevallási közreműködő igénybevételével szolgáltatott útdíjbevallással és az útdíjbevallásnak az útdíjköteles elemi útszakaszokhoz történő hozzárendelésével, valamint az útdíjrendszernek a Kkt.-ban meghatározott Nemzeti Tengelysúlymérő Rendszerrel összefüggő hardver- és szoftverelemeit is; 10. útdíjszedő: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény végrehajtásáról szóló kormányrendeletben kijelölt útdíjszedő; 11. útdíjszolgáltatási gazdasági társaság: az egyes szervezeteknek a közlekedési infrastruktúra fejlesztési feladataival összefüggő kijelöléséről szóló kormányrendeletben kijelölt útdíjszolgáltatási gazdasági társaság; 12. üzemeltetés: informatikai eszköz, szoftver, alkalmazás előírásoknak megfelelő, biztonságos és rendeltetésszerű működtetése, ideértve a változáskezelési feladatok ellátását is."
     },
     {
       "provision_ref": "s3",
-      "chapter": "I. Fejezet",
+      "chapter": "I. Fejezet ÁLTALÁNOS RENDELKEZÉSEK, VALAMINT A HASZNÁLATIDÍJ-RENDSZER ÉS AZ ÚTDÍJRENDSZER ÜZEMELTETÉSE ÉS FEJLESZTÉSE",
       "section": "3",
       "title": "3. §",
       "content": "3. § (1) A használatidíj-rendszer és az útdíjrendszer üzemeltetése és fejlesztése az útdíjszolgáltatási gazdasági társaság, az útdíjszedő, az útdíjellenőrzés-támogatói feladatok ellátására kijelölt szervezet, és az egyetemes útdíjszolgáltató (a továbbiakban együtt: kijelölt szervezet) által végzett közfeladat, amelynek ellátására a kijelölt szervezet a közlekedésért felelős miniszter által rendeletben kijelölt közreműködőt (a továbbiakban: közreműködő) vehet igénybe. (2) Közreműködőként az államháztartásról szóló törvény szerinti költségvetési szerv, vagy olyan gazdálkodó szervezet jelölhető ki, amelyben az állam közvetlen vagy a nemzeti vagyonról szóló törvényben meghatározott közvetett társasági részesedéssel rendelkezik."
     },
     {
       "provision_ref": "s4",
-      "chapter": "I. Fejezet",
+      "chapter": "I. Fejezet ÁLTALÁNOS RENDELKEZÉSEK, VALAMINT A HASZNÁLATIDÍJ-RENDSZER ÉS AZ ÚTDÍJRENDSZER ÜZEMELTETÉSE ÉS FEJLESZTÉSE",
       "section": "4",
       "title": "4. §",
       "content": "4. § (1) A rendszertámogatást szolgáltatási szerződés keretében meghatározott válaszidőkkel, konkrét felelősségi körökkel és titoktartási kötelezettség mellett kell ellátni. (2) A kijelölt szervezetek a használatidíj-rendszer vagy az útdíjrendszer rendszertámogatására irányuló olyan szerződést, amelynek ellenértéke az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott értékhatárt eléri, a közlekedésért felelős miniszter előzetes jóváhagyásával köthetnek."
     },
     {
       "provision_ref": "s5",
-      "chapter": "I. Fejezet",
+      "chapter": "I. Fejezet ÁLTALÁNOS RENDELKEZÉSEK, VALAMINT A HASZNÁLATIDÍJ-RENDSZER ÉS AZ ÚTDÍJRENDSZER ÜZEMELTETÉSE ÉS FEJLESZTÉSE",
       "section": "5",
       "title": "5. §",
       "content": "5. § (1) A használatidíj-rendszerben és az útdíjrendszerben olyan szoftverelemek alkalmazhatóak, amelyek vagyoni jogai az államot illetik meg. (2) A használatidíj-rendszer és az útdíjrendszer üzemeltetéséhez felhőszolgáltatás nem vehető igénybe. (3) Ha szerződés erre feljogosítja, a kijelölt szervezet megteszi a szükséges intézkedéseket a kijelölt szervezetet szerződés alapján megillető, szerzői jogi védelem alá eső szoftverek felhasználói jogának ellenérték fizetését nem igénylő megszerzése iránt."
     },
     {
       "provision_ref": "s6",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "6",
       "title": "6. §",
       "content": "6. § (1) Felhatalmazást kap a Kormány, hogy a 4. § szerinti értékhatárt és a közlekedésért felelős miniszter általi jóváhagyás rendjét rendeletben állapítsa meg. (2) Felhatalmazást kap a közlekedésért felelős miniszter, hogy a közreműködőt rendeletben kijelölje."
     },
     {
       "provision_ref": "s7",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "7",
       "title": "7. §",
       "content": "7. § (1) Ez a törvény – a (2)–(5) bekezdésben foglalt kivétellel – 2025. július 1-jén lép hatályba. (2) A 10. § (7) bekezdése az e törvény kihirdetését követő 31. napon lép hatályba. (3) A 11. § 2025. augusztus 1-jén lép hatályba. (4) A 9. § c) pontja, a 10. § (4) és (9) bekezdése, a 12. § (3), (4), (6), (7), (8), (11), (13), (16) bekezdése, valamint a 13–15. § 2025. szeptember 1-jén lép hatályba. (5) A 4. §, az 5. § (1) és (2) bekezdése, a 6. §, a 9. § a) pontja, a 10. § (2), (3), (5) és (8) bekezdése, a 12. § (1), (2), (5), (9), (10), (12), (14), (17) bekezdése, valamint a (18) bekezdés a) és b) pontja 2026. január 1-jén lép hatályba."
     },
     {
       "provision_ref": "s8",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "8",
       "title": "8. §",
       "content": "8. § (1) A 3. § (2) bekezdését a kijelölt szervezet által a használatidíj-rendszer vagy az útdíjrendszer üzemeltetésének ellátására igénybe vett közreműködő tekintetében – az (5) bekezdésben foglalt kivétellel – 2026. január 1-től kell alkalmazni. (2) Az e törvény hatálybalépését megelőzően a kijelölt szervezet által megkötött, olyan, a használatidíj-rendszer vagy az útdíjrendszer üzemeltetésére irányuló szerződés, illetve több különböző szolgáltatás nyújtására irányuló szerződés üzemeltetésre irányuló része, amely vonatkozásában a szerződő fél nem felel meg az ebben a törvényben foglalt közreműködőre vonatkozó követelményeknek, e törvény erejénél fogva, 2025. december 31-én megszűnik. (3) Az e törvény hatálybalépését megelőzően a kijelölt szervezet által megkötött, olyan, a használatidíj-rendszer vagy az útdíjrendszer fejlesztésére irányuló szerződés, illetve több különböző szolgáltatás nyújtására irányuló szerződés fejlesztésre irányuló része, amely vonatkozásában a szerződő fél nem felel meg az ebben a törvényben foglalt közreműködőre vonatkozó követelményeknek, e törvény erejénél fogva, 2025. július 1-jén megszűnik. (4) A (2) és (3) bekezdésben meghatározott szerződés vagy szerződésrész megszűnésétől számított hatvan napon belül a szerződő felek egymással elszámolnak, különösen abban a tekintetben, hogy a szerződés vagy szerződésrész megszűnéséig szerződésszerűen teljesített szolgáltatás ellenértéke a szerződő felet megilleti. (5) Az (1) és (2) bekezdéstől eltérően, az e törvény hatálybalépését megelőzően a kijelölt szervezet által megkötött, olyan, a használatidíj-rendszer vagy az útdíjrendszer üzemeltetésére irányuló szerződés, illetve több különböző szolgáltatás nyújtására irányuló szerződés üzemeltetésre irányuló része, amely vonatkozásában a szerződő fél nem felel meg az ebben a törvényben foglalt közreműködőre vonatkozó követelményeknek, és a szerződés szerinti üzemeltetési szolgáltatás teljesítése 2025. július 1-jén még nem kezdődött meg, a szerződés e törvény erejénél fogva, 2025. július 1-jén megszűnik. (6) Az (1), (2) és (5) bekezdéstől eltérően, az e törvény hatálybalépését megelőzően a kijelölt szervezet által megkötött, olyan, a használatidíj-rendszer vagy az útdíjrendszer üzemeltetésére irányuló szerződés, illetve több különböző szolgáltatás nyújtására irányuló szerződés üzemeltetésre irányuló része, amely vonatkozásában a szerződő fél nem felel meg az ebben a törvényben foglalt közreműködőre vonatkozó követelményeknek, és a szerződés vagy szerződésrész 2025. december 31-e előtt megszűnne, a szerződés vagy szerződésrész – közös megegyezéssel – legfeljebb 2025. december 31-ig meghosszabbítható azzal, hogy az e törvény erejénél fogva, 2025. december 31-én megszűnik. (7) Az üzemanyagtöltő állomásnak nem minősülő viszonteladóknak az útdíjszolgáltatási gazdasági társasággal kötött viszonteladói megállapodása e törvény erejénél fogva 2025. augusztus 31-én megszűnik."
     },
     {
       "provision_ref": "s9",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "9",
       "title": "9. §",
       "content": "9. § E törvény a) 10. § (2)–(3) bekezdése az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről (átdolgozás) szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 23–25. cikkének, b) 13. §-a és 15. §-a az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek, c) 14. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
     },
     {
       "provision_ref": "s10",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "10",
       "title": "10. §",
       "content": "10. §"
     },
     {
       "provision_ref": "s11",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "11",
       "title": "11. §",
       "content": "11. §"
     },
     {
       "provision_ref": "s12",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "12",
       "title": "12. §",
       "content": "12. §"
     },
     {
       "provision_ref": "s13",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "13",
       "title": "13. §",
       "content": "13. §"
     },
     {
       "provision_ref": "s14",
-      "chapter": "II. Fejezet",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
       "section": "14",
       "title": "14. §",
       "content": "14. §"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "II. Fejezet ZÁRÓ RENDELKEZÉSEK",
+      "section": "15",
+      "title": "15. §",
+      "content": "15. § 1 A törvényt az Országgyűlés a 2025. június 17-i ülésnapján fogadta el. A kihirdetés napja: 2025. június 19. 2 Lásd a 180/2025. (VI. 30.) Korm. rendeletet. 3 Lásd a 39/2025. (XII. 22.) ÉKM rendeletet. 4 A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. 5 A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. 6 A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. 7 A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. 8 A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. 9 A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. Változott rendelkezések Megváltozott Nincs változás Változni fog Nincs változás Eszköztár ELI Nyomtatás Másolás a vágólapra Nyomtatás Szerkezet Keresés Megnyitottak Eszköztár Változások Önkormányzati rendeletek Jogszabálykereső {{ page.title }} {{ page.shortDescription }}\"> {{ page.url }} Megnyitottak Megnyitottak {{ page.url }} Lap tetejére Kapcsolat Felhasználási feltételek Akadálymentesítési nyilatkozat PDF Adatkezelési tájékoztató © A Nemzeti Jogszabálytárban elérhető szövegek tekintetében az MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt. minden jogot fenntart! _ A cookie-k segítenek szolgáltatásaink biztosításában. Szolgáltatásaink igénybevételével Ön beleegyezik a cookie-k használatába. A cookie-k kezeléséről részletesebb információt ide kattintva olvashat. Elfogadom var njtConfig = { start: '/', cachedPageDataUrl: '/ajax/cachedPageData.json', searchUrl: '/ajax/get_search_url.json', onkormanyzatiSearchUrl: '/ajax/get_onkormanyzati_search_url.json', justificationSearchUrl: '/ajax/get_justification_search_url.json', documentTranslationSearchUrl: '/ajax/get_document_translation_search_url.json', internationalAgreementSearchUrl: '/ajax/get_international_agreement_search_url.json', loggerUrl: '/ajax/logger.json', collectAllDocumentVersion: '/ajax/collectAllDocumentVersion.json', collectDocumentVhrVersion: '/ajax/collectDocumentVhrVersion.json', documentVersions: '/ajax/getDocumentVersions.json', currentDocumentFromAbbr: '/ajax/getCurrentDocumentFromAbbr.json', documentVersionsFromAbbr: '/ajax/getDocumentVersionsFromAbbr.json', documentConfig: '/ajax/config.json', documentUrl: '/jogszabaly', tagSearch: '/ajax/tags.json', getBlock: '/ajax/njtGetBlock.json', searchInText: '/ajax/searchInText.json', modifyAccount: '/account/registration/modify.json', searchInSections: '/ajax/njt_search_in_sections.json', printWindowSkeleton: '/ajax/getPrintWindow', organisationGetPrintableDatas: '/organisation/print_datas.json/', simpleSearchPredict: '/ajax/simple_predict.json', acceptCookieLaw: '/ajax/acl.json', getMessage: '/ajax/message.json', acceptMessage: '/ajax/accept_message.json', exportWindowSkeleton: '/ajax/getExportWindow', acceptCookieLawName: 'acceptCookieLaw', sidemenu: '/ajax/sidemenu/:id', requirements: [], isLoggedIn: false, indokolasSearchPrefix: '𝒿', onkormanyzatSearchPrefix: 'ℴ', pagebarMarkArchivum: '𝒶', pagebarMarkFogalomtar: '𝒻', pagebarMarkElethelyzet: '𝓮', pagebarMarkElethelyzetTerulet: '𝓽', pagebarMarkTopic: '𝓴', loadQuestion: '/elethelyzet/question', getAllElethelyzet: '/elethelyzet/index', lazyModeLoggedOut: false, valtozasJelzesekVersions: '/ajax/getValtozasJelzesekVersions.json', getTelepulesKibocsatoByMegye: '/getTelepulesKibocsatoByMegye.json', szakaszSliceType: 'SZAKASZ', mellekletCimkeSliceType: 'SZAKASZ', jogszabalyHighlight: '/ajax/jogszabaly_highlight', getElethelyzetData: '/elethelyzet/getElethelyzetData.json', getElethelyzetTeruletData: '/elethelyzet/getElethelyzetTeruletData.json', getTopicSearchListForHater: '/getTopicSearchList.json', }; var njtTranslate = { cancel: 'Mégsem', ok: 'Rendben', send: 'Küldés', login: 'Belépés', gazette_state: 'Közlönyállapot', hatalyos: 'Hatályos', meg_nem_hatalyos: 'Még nem hatályos', nemIsmert: 'Nem ismert', nemLepettHatalyba: 'Nem lépett hatályba', closeWindowText: 'Biztosan elnavigál az oldalról?', szervezetAdminCaption: 'Szervezeti adminisztrátor adatai:', datepickerPlaceholder: 'éééé.hh.nn', sectionFinder: 'Paragrafusra ugrás', noSectionFound: 'Nem található a keresési feltételeknek megfelelő paragrafus', documentInfo: 'Jogszabályinfó', documentSampleAddWindowTitle: 'Jogszabály adatai', footnoteTitle: 'Lábjegyzetek', figyelem: 'Figyelem!', figyelemMessage: 'A szolgáltatások igénybevételéhez jelentkezzen be!', jogszabalyLoginTitle: 'A jogszabály megtekintéséhez jelentkezzen be!', jogszabalyLoginMessage: 'A hivatkozott jogszabály, jogszabályi időállapot a Nemzeti Jogszabálytár regisztrációval vagy ügyfélkapus bejelentkezéssel használható szolgáltatási szintjén érhető el [338/2011. (XII. 29.) Korm. rendelet 2. § (1) bekezdése alapján].', jogszabalyMissingMessage: 'A hivatkozott jogi dokumentum nem áll rendelkezésre.', sessionMessage: 'A munkamenet múlva lejár és automatikusan ki lesz léptetve. A meghosszabbításhoz kattintson a tovább gombra.', csrfExpired: 'Lejárt a munkamenet, kérjük jelentkezzen be újra.', orgRegistrationFileUploadError: 'Kérjük, töltse fel az aláírt regisztrációs lapot', registrationHandleTitle: 'Elfogadja a regisztrációt?', registrationHandleSubTitle: 'Elutasítás esetén, kérjük, adja meg a elutasítás okát. Erről a regisztráló felhasználót e-mailben értesítjük.', registrationCreated: 'Sikeres regisztráció', registrationModified: 'Sikeres módosítás', registrationMergeError: 'Regisztrált felhasználók összefésülése sikertelen', underProcessWarning: 'A jogszabály feldolgozás alatt van, a felület korlátozottan használható', metaDescription: 'Magyarország hivatalos, hiteles, ingyenesen használható jogszabálygyűjteménye, az MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt. gondozásában', metaTitle: 'Nemzeti Jogszabálytár – MKIFK Magyar Közlönykiadó és Igazságügyi Fordítóközpont Zrt.', hiba: 'Hiba', noMoreResults: 'Nincs több találat', noResult: 'Nincs találat', nemMegfelelo: 'Nem megfelelő', evszam: 'évszám', lekerdezesIdeje: 'Lekérdezés ideje', kivonat: 'KIVONAT', iratminta: 'iratminta', errorNeedReload: 'HIBA! Újratöltés szükséges!', beforeDeleteLawRequest: 'Biztosan törölni szeretné jogszabály igénylését?', lawRequest: 'Jogszabály igénylés', igen: 'Igen', nem: 'Nem', tablazatKinyitasa: 'Táblázat kinyitása', emailCim: 'E-mail cím', giveYourEmailAddress: 'Adja meg az e-mail címét', informacio: 'Információ', successfulModification: 'Sikeres módosítás!', maganszemely: 'Magánszemély', unsuccessfulExport: 'Sikertelen exportálás', unsuccessfulCopy: 'Sikertelen másolás', copiedToClipboard: 'Kimásolva a vágólapra', documentTranslations: 'Jogszabályfordítások', internationalAgreements: 'Nemzetközi szerződések', kozismertJogszabalyok: 'Közismert jogszabályok', registration: 'Regisztráció', accountSettings: 'Fiók módosítás', simpleSearch: 'Jogszabálykereső', cif: 'Adott napon hatályba lépő jogszabályok', expired: 'Adott napon hatályukat vesztő jogszabályok', info: 'Információ', justificationSearch: 'Indokolások Tára', popupHeader: 'Karbantartás', popupMessage: 'Tájékoztatjuk Tisztelt Felhasználóinkat, hogy technikai karbantartás miatt 2023. április 25-én 20:00-21:00 óra között a Nemzeti Jogszabálytár Ügyfélkapus bejelentkezéssel történő használatában fennakadások várhatók.', privacy: 'Adatkezelési tájékoztató' };"
     }
   ],
   "definitions": [

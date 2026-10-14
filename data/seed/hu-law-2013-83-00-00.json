@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2013. évi LXXXIII. törvény a pénzügyi konglomerátumok kiegészítő felügyeletéről",
   "status": "in_force",
-  "in_force_date": "2013-06-22",
   "url": "https://njt.hu/jogszabaly/2013-83-00-00",
-  "description": "a pénzügyi konglomerátumok kiegészítő felügyeletéről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -132,6 +131,12 @@
       "section": "20",
       "title": "20. §",
       "content": "20. § A 26. § (1) bekezdése az Alaptörvény 23. és 42. cikke alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s2127",
+      "section": "21–27",
+      "title": "21–27. §",
+      "content": "21–27. §"
     }
   ],
   "definitions": [

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2013. évi XCII. törvény a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény módosításáról",
   "status": "in_force",
-  "in_force_date": "2013-06-21",
   "url": "https://njt.hu/jogszabaly/2013-92-00-00",
-  "description": "a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s121",
@@ -29,7 +28,7 @@
       "provision_ref": "s24",
       "section": "24",
       "title": "24. §",
-      "content": "24. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba."
+      "content": "24. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba. (2) A 22. § hatálybalépéséről külön törvény rendelkezik."
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi XXIV. törvény a Testnevelési Egyetemért Alapítványról, a Testnevelési Egyetemért Alapítvány és a Testnevelési Egyetem részére történő vagyonjuttatásról",
   "status": "in_force",
-  "in_force_date": "2021-05-01",
   "url": "https://njt.hu/jogszabaly/2021-24-00-00",
-  "description": "a Testnevelési Egyetemért Alapítványról, a Testnevelési Egyetemért Alapítvány és a Testnevelési Egyetem részére történő vagyonjuttatásról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -47,7 +46,7 @@
       "provision_ref": "s7",
       "section": "7",
       "title": "7. §",
-      "content": "7. § 1. melléklet a 2021. évi XXIV. törvényhez"
+      "content": "7. §"
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2019. évi LXVI. törvény Magyarország 2020. évi központi költségvetésének megalapozásáról",
   "status": "in_force",
-  "in_force_date": "2019-07-10",
   "url": "https://njt.hu/jogszabaly/2019-66-00-00",
-  "description": "Magyarország 2020. évi központi költségvetésének megalapozásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -1164,6 +1163,12 @@
       "section": "193",
       "title": "193. §",
       "content": "193. § E törvény 1. 78. §-a, 79. §-a, 113. §-a és 132. §-a az Alaptörvény XXIX. cikk (3) bekezdése, 2. 83. §–85. §-a az Alaptörvény 31. cikk (3) bekezdése, 3. 115. §-a az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s194",
+      "section": "194",
+      "title": "194. §",
+      "content": "194. § E törvény 69. §-a a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9–10. cikkének, valamint a tagállamok költségvetési keretrendszerére vonatkozó követelményekről szóló 2011. november 8-i 2011/85/EU tanácsi irányelvnek való megfelelést szolgálja."
     }
   ],
   "definitions": []

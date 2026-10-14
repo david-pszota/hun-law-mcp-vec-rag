@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2017. évi LXXIV. törvény egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról",
   "status": "in_force",
-  "in_force_date": "2017-06-21",
   "url": "https://njt.hu/jogszabaly/2017-74-00-00",
-  "description": "egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -60,6 +59,12 @@
       "section": "7/A",
       "title": "7/A. §",
       "content": "7/A. § E törvénynek az egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kormányzati igazgatással összefüggő módosításáról szóló 2022. évi VII. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. §-át a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "8. §",
+      "content": "8. § E törvény 2. §-a, 4. §-a, 5. §-a, 6. § (3) bekezdése, valamint 1. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

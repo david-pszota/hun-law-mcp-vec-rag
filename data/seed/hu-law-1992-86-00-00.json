@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "1992. évi LXXXVI. törvény a Magyar Köztársaság 1992. évi költségvetéséről és az államháztartás vitelének 1992. évi szabályairól szóló 1991. évi XCI. törvény módosításáról",
   "status": "in_force",
-  "in_force_date": "1992-12-31",
   "url": "https://njt.hu/jogszabaly/1992-86-00-00",
-  "description": "a Magyar Köztársaság 1992. évi költségvetéséről és az államháztartás vitelének 1992. évi szabályairól szóló 1991. évi XCI. törvény módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -18,6 +17,12 @@
       "section": "2",
       "title": "2. §",
       "content": "2. § Az Országgyűlés felhatalmazza a pénzügyminisztert, hogy legkésőbb a költségvetési pótkezelési időszak végéig a) 889,6 millió forint költségvetési támogatást bocsásson a Magyar Televízió rendelkezésére; b) 110,4 millió forintot átmenetileg — az Állami Számvevőszék utóvizsgálatát követő kormánydöntésig — a központi költségvetés letéti számlájára helyezzen el."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "3. §",
+      "content": "3. § E törvény a kihirdetése napján lép hatályba."
     }
   ],
   "definitions": []

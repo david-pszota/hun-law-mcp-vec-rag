@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "1994. évi LXVI. törvény a Bérgarancia Alapról",
   "status": "in_force",
-  "in_force_date": "1994-11-17",
   "url": "https://njt.hu/jogszabaly/1994-66-00-00",
-  "description": "a Bérgarancia Alapról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -138,6 +137,12 @@
       "section": "15",
       "title": "15. §",
       "content": "15. § (1) E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény és a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2012. évi CXCVII. törvénnyel (a továbbiakban: 2012. évi CXCVII. törvény) megállapított rendelkezéseit a 2012. évi CXCVII. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló kölcsönvevő és iskolaszövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló kölcsönbeadó, illetve iskolaszövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2012. évi CXCVII. törvény hatálybalépésekor még nem került sor. (1a) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 3. §-át, az elektronikus kapcsolattartás tekintetében 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni azzal, hogy fővárosi és megyei kormányhivatal helyett állami foglalkoztatási szervet kell érteni. (1b) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2018. évi XCIV. törvénnyel (a továbbiakban: 2018. évi XCIV. tv.) megállapított 4. § (3) bekezdését és 5. § (2) bekezdését a 2018. évi XCIV. tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell. (1c) E törvénynek a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvénnyel (a továbbiakban: 2021. évi LXIV. törvény) megállapított 1. § (1a) bekezdését, 1. § (2) bekezdés d) pont db) alpontját, 1. § (6)–(13) bekezdését a 2021. évi LXIV. törvény hatálybalépését követően indult adósságrendezési eljárásokban érvényesített bértartozásokra vonatkozóan kell alkalmazni. (2) Ez a törvény a munkáltató fizetésképtelensége esetén a munkavállalók védelméről szóló, 2008. október 22-i 2008/94/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja. (3) E törvénynek a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2020. évi LXXIX. törvénnyel (a továbbiakban: 2020. évi LXXIX. törvény) megállapított rendelkezéseit a 2020. évi LXXIX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló nyugdíjas szövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló nyugdíjas szövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2020. évi LXXIX. törvény hatálybalépésekor még nem került sor."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "16. §",
+      "content": "16. § Ez a törvény az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet és az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet hatálya alá tartozó támogatásokkal kapcsolatos szabályokat tartalmaz."
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2023. évi LXVIII. törvény a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló, Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti Megállapodás módosításáról szóló Megállapodás kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2023-11-01",
   "url": "https://njt.hu/jogszabaly/2023-68-00-00",
-  "description": "a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló, Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti Megállapodás módosításáról szóló Megállapodás kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -35,7 +34,7 @@
       "provision_ref": "s5",
       "section": "5",
       "title": "5. §",
-      "content": "5. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a határrendészetért felelős miniszter gondoskodik."
+      "content": "5. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a határrendészetért felelős miniszter gondoskodik. (2) A Megállapodás módosításokkal egységes szerkezetbe foglalt, magyar nyelvű szövegének közzétételéről a Módosító Megállapodás hatálybalépését követően a határrendészetért felelős miniszter haladéktalanul gondoskodik."
     }
   ],
   "definitions": []

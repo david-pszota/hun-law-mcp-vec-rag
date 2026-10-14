@@ -1,11 +1,10 @@
 {
   "id": "hu-law-2004-30-00-00",
   "type": "statute",
-  "title": "2004. évi XXX. törvény a Belga Királyság, a Dán Királyság, a Németországi Szövetségi Köztársaság, a Görög Köztársaság, a Spanyol Királyság, a Francia Köztársaság, Írország, az Olasz Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság, az Osztrák Köztársaság, a Portugál Köztársaság, a Finn Köztársaság, a Svéd Királyság, Nagy-Britannia és Észak-Írország Egyesült Királysága",
+  "title": "2004. évi XXX. törvény a Belga Királyság, a Dán Királyság, a Németországi Szövetségi Köztársaság, a Görög Köztársaság, a Spanyol Királyság, a Francia Köztársaság, Írország, az Olasz Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság, az Osztrák Köztársaság, a Portugál Köztársaság, a Finn Köztársaság, a Svéd Királyság, Nagy-Britannia és Észak-Írország Egyesült Királysága (az Európai Unió tagállamai) és a Cseh Köztársaság, az Észt Köztársaság, a Ciprusi Köztársaság, a Lett Köztársaság, a Litván Köztársaság, a Magyar Köztársaság, a Máltai Köztársaság, a Lengyel Köztársaság, a Szlovén Köztársaság és a Szlovák Köztársaság között, a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló szerződés kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2004-05-01",
   "url": "https://njt.hu/jogszabaly/2004-30-00-00",
-  "description": "a Belga Királyság, a Dán Királyság, a Németországi Szövetségi Köztársaság, a Görög Köztársaság, a Spanyol Királyság, a Francia Köztársaság, Írország, az Olasz Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság, az Osztrák Köztársaság, a Portugál Köztársaság, a Finn Köztársaság, a Svéd Királyság, Nagy-Britannia és Észak-Írország Egyesült Királysága",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -24,6 +23,12 @@
       "section": "3",
       "title": "3. §",
       "content": "3. § Az Országgyűlés e törvénnyel kihirdeti az Európai Unióról szóló szerződést, az Európai Közösséget létrehozó szerződést, az Európai Atomenergia-közösséget létrehozó szerződést és az ezeket kiegészítő vagy módosító szerződéseket, ideértve a Dán Királyságnak, Írországnak, valamint Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Gazdasági Közösséghez és az Európai Atomenergia-közösséghez történő csatlakozásáról szóló szerződést, a Görög Köztársaságnak az Európai Gazdasági Közösséghez és az Európai Atomenergia-közösséghez történő csatlakozásáról szóló szerződést, a Spanyol Királyságnak és a Portugál Köztársaságnak az Európai Gazdasági Közösséghez és az Európai Atomenergia-közösséghez történő csatlakozásáról szóló szerződést, valamint az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak az Európai Unióhoz történő csatlakozásáról szóló szerződést. A szerződések magyar szövegét a törvény II. melléklete tartalmazza."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "4. §",
+      "content": "4. § Ez a törvény 2004. május 1-jén lép hatályba."
     }
   ],
   "definitions": []

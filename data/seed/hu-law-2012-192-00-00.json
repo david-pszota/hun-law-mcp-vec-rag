@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2012. évi CXCII. törvény egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2012-12-08",
   "url": "https://njt.hu/jogszabaly/2012-192-00-00",
-  "description": "egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -479,13 +478,13 @@
       "provision_ref": "s75",
       "section": "75",
       "title": "75. §",
-      "content": "75. § (1) (2) a) b) c) d) e) f) g) h) i) j) k) l) m)"
+      "content": "75. § (1) (2)"
     },
     {
       "provision_ref": "s76",
       "section": "76",
       "title": "76. §",
-      "content": "76. § (1) (2) 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 15. 19. 20. 21. 22. 23. 24."
+      "content": "76. § (1) (2)"
     },
     {
       "provision_ref": "s77",
@@ -527,7 +526,7 @@
       "provision_ref": "s83",
       "section": "83",
       "title": "83. §",
-      "content": "83. § 1. melléklet a 2012. évi CXCII. törvényhez"
+      "content": "83. § Teljességi nyilatkozat Alulírott.........................., mint a......................... Önkormányzat, társulás képviseletében eljáró vezető (a továbbiakban: átadó) kijelentem, hogy a mai napon –............................. – az átvevő részére a jegyzőkönyvben átadottakon túlmenően nem áll rendelkezésemre az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvényben meghatározott intézményi kör (átvett intézmények, illetve átvett integrált intézmények) működése körébe eső adat, információ, tény, okirat, dokumentum, valamint kijelentem, hogy az általam tett nyilatkozatok és az átadott, ismertetett adatok, információk, tények, okiratok, dokumentumok valóságtartalmáért, teljeskörűségéért, és az érdemi vizsgálatra alkalmas voltáért teljes felelősséget vállalok. Jelen nyilatkozat elválaszthatatlan részét képezi az átadás-átvételi jegyzőkönyvnek."
     }
   ],
   "definitions": [

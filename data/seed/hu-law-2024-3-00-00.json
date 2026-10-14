@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2024. évi III. törvény a Magyarország Kormánya és a Török Köztársaság Kormánya között a polgári veszélyhelyzetek terén folytatott együttműködésről szóló Megállapodás kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2024-04-18",
   "url": "https://njt.hu/jogszabaly/2024-3-00-00",
-  "description": "a Magyarország Kormánya és a Török Köztársaság Kormánya között a polgári veszélyhelyzetek terén folytatott együttműködésről szóló Megállapodás kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -36,6 +35,12 @@
       "section": "5",
       "title": "5. §",
       "content": "5. § Az e törvény végrehajtásához szükséges intézkedésekről a katasztrófák elleni védekezésért felelős miniszter gondoskodik."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "6. §",
+      "content": "6. §"
     }
   ],
   "definitions": []

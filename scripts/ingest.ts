@@ -26,8 +26,8 @@ const __dirname = path.dirname(__filename);
 
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
-const BLOCK_ENDPOINT = 'https://njt.hu/ajax/njtGetBlock.json';
-const SEARCH_URL_ENDPOINT = 'https://njt.hu/ajax/get_search_url.json';
+const BLOCK_ENDPOINT = 'https://njt.jog.gov.hu/ajax/njtGetBlock.json';
+const SEARCH_URL_ENDPOINT = 'https://njt.jog.gov.hu/ajax/get_search_url.json';
 
 type IngestStatus = 'OK' | 'cached' | 'METADATA_ONLY' | `HTTP ${number}` | 'NO_SECTION_CONTENT' | `ERROR: ${string}`;
 
@@ -240,7 +240,7 @@ function parseSearchResultPage(html: string): DiscoveredLaw[] {
 
   for (const chunk of chunks) {
     const mainLinkMatch = chunk.match(
-      /(<a[^>]*href="jogszabaly\/([0-9]{4}-[0-9A-Z]+-00-00)"[^>]*>)([\s\S]*?)<\/a>/i
+      /(<a[^>]*href="jogszabaly\/([0-9]{4}-[0-9A-Z]+-[0-9A-Z]{2}-[0-9A-Z]{2})"[^>]*>)([\s\S]*?)<\/a>/i
     );
     if (!mainLinkMatch) continue;
 
@@ -281,16 +281,32 @@ function parseSearchResultPage(html: string): DiscoveredLaw[] {
 
 async function fetchSearchPathForLaws(inForceOnly: boolean): Promise<string> {
   const payload = {
-    evszam: '',
-    sorszam: '',
-    author_type: '0000',
-    szokereso: '',
-    csak_hatalyos: inForceOnly,
-    pontos_szora: false,
-    csak_cimben: false,
-    targyszo: false,
-    gazette_state: false,
-  };
+    "szokereso": "",
+    "csak_hatalyos": inForceOnly,
+    "pontos_szora": false,
+    "csak_cimben": false,
+    "onkormanyzati_kor": false,
+    "evszam": "",
+    "sorszam": "",
+    "author_type": "",
+    "gazette_state": false,
+    "topic": "0150", // cegeljaras
+    "megye": "",
+    "telepules_kibocsato": "",
+    "modositok_kihagyasa": false
+  }
+
+  // const payload = {
+  //   evszam: '',
+  //   sorszam: '',
+  //   author_type: '0000',
+  //   szokereso: '',
+  //   csak_hatalyos: inForceOnly,
+  //   pontos_szora: false,
+  //   csak_cimben: false,
+  //   targyszo: false,
+  //   gazette_state: false,
+  // };
 
   const response = await postJsonWithRateLimit(SEARCH_URL_ENDPOINT, payload);
   if (response.status !== 200) {

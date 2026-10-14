@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi CVI. törvény a Magyarország Kormánya és a Sierra Leone-i Köztársaság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről szóló megállapodás kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2025-12-20",
   "url": "https://njt.hu/jogszabaly/2025-106-00-00",
-  "description": "a Magyarország Kormánya és a Sierra Leone-i Köztársaság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről szóló megállapodás kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -30,6 +29,12 @@
       "section": "4",
       "title": "4. §",
       "content": "4. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba. (2) A 2. § és a 3. §, valamint az 1. melléklet és a 2. melléklet a Megállapodás 21. cikk 1. bekezdésében foglalt időpontban lép hatályba. (3) A Megállapodás, a 2. §, a 3. §, valamint az 1. melléklet és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "5. §",
+      "content": "5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik."
     }
   ],
   "definitions": []

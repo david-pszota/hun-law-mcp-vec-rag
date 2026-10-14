@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2004. évi CXXXVII. törvény a Nemzeti Audiovizuális Archívumról",
   "status": "in_force",
-  "in_force_date": "2006-01-01",
   "url": "https://njt.hu/jogszabaly/2004-137-00-00",
-  "description": "a Nemzeti Audiovizuális Archívumról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -174,6 +173,13 @@
       "section": "21",
       "title": "21. §",
       "content": "21. § Az NMHH elnökének e törvény felhatalmazása alapján megalkotott rendelete hatálybalépéséig az azonos tárgykörben alkotott miniszteri rendeletet kell alkalmazni. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "IV. Fejezet - Záró rendelkezések",
+      "section": "22",
+      "title": "22. §",
+      "content": "22. § E törvény III. Fejezetének A Médiatanács feladatai alcíme az Alaptörvény IX. cikk (6) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

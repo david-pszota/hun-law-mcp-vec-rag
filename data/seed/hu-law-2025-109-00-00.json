@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi CIX. törvény az Európa Tanács Számítástechnikai Bűnözésről szóló Egyezményéhez csatolt, a megerősített együttműködésről és az elektronikus bizonyítékok átadásáról szóló második kiegészítő jegyzőkönyv kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2025-12-20",
   "url": "https://njt.hu/jogszabaly/2025-109-00-00",
-  "description": "az Európa Tanács Számítástechnikai Bűnözésről szóló Egyezményéhez csatolt, a megerősített együttműködésről és az elektronikus bizonyítékok átadásáról szóló második kiegészítő jegyzőkönyv kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -35,7 +34,7 @@
       "provision_ref": "s5",
       "section": "5",
       "title": "5. §",
-      "content": "5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba. (2) A 2–4. §, az 1. melléklet és a 2. melléklet a Jegyzőkönyv 16. cikk 3. bekezdésében meghatározott időpontban lép hatályba. (3) A Jegyzőkönyv, valamint a 2–4. §, az 1. melléklet és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg."
+      "content": "5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba. (2) A 2–4. §, az 1. melléklet és a 2. melléklet a Jegyzőkönyv 16. cikk 3. bekezdésében meghatározott időpontban lép hatályba. (3) A Jegyzőkönyv, valamint a 2–4. §, az 1. melléklet és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg. (4) E törvény végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter, valamint az igazságügyért felelős miniszter gondoskodik."
     }
   ],
   "definitions": []

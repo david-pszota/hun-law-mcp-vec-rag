@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2023. évi XLIII. törvény az egyének védelméről a személyes adatok gépi feldolgozása során, Strasbourgban, 1981. január 28. napján kelt Egyezménynek a Strasbourgban, 2018. október 10. napján kelt módosító Jegyzőkönyve kihirdetéséről",
   "status": "in_force",
-  "in_force_date": "2023-06-23",
   "url": "https://njt.hu/jogszabaly/2023-43-00-00",
-  "description": "az egyének védelméről a személyes adatok gépi feldolgozása során, Strasbourgban, 1981. január 28. napján kelt Egyezménynek a Strasbourgban, 2018. október 10. napján kelt módosító Jegyzőkönyve kihirdetéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -36,6 +35,12 @@
       "section": "5",
       "title": "5. §",
       "content": "5. § (1) Az e törvény végrehajtásához szükséges intézkedésekről az igazságügyért felelős miniszter gondoskodik. (2) Az 1998. évi VI. törvénnyel kihirdetett, az egyének védelméről a személyes adatok gépi feldolgozása során, Strasbourgban, 1981. január 28. napján kelt Egyezménynek a Módosító Jegyzőkönyvvel egységes szerkezetbe foglalt hiteles angol nyelvű szövegének és hivatalos magyar nyelvű fordításának haladéktalan közzétételéről a Módosító Jegyzőkönyv hatálybalépését követően – a külpolitikáért felelős miniszter egyetértésével – az igazságügyért felelős miniszter gondoskodik."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "6. §",
+      "content": "6. §"
     }
   ],
   "definitions": []

@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2020. évi XXXVIII. törvény a Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról",
   "status": "in_force",
-  "in_force_date": "2020-05-29",
   "url": "https://njt.hu/jogszabaly/2020-38-00-00",
-  "description": "a Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -149,7 +148,7 @@
       "provision_ref": "s11",
       "section": "11",
       "title": "11. §",
-      "content": "11. § A 3/G. §, a 3/H. §, a 4/A. §, az 1. melléklet 63–65. sora, a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül. 1. melléklet a 2020. évi XXXVIII. törvényhez"
+      "content": "11. § A 3/G. §, a 3/H. §, a 4/A. §, az 1. melléklet 63–65. sora, a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

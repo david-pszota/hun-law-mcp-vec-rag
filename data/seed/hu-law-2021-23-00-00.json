@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi XXIII. törvény a Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról",
   "status": "in_force",
-  "in_force_date": "2021-05-01",
   "url": "https://njt.hu/jogszabaly/2021-23-00-00",
-  "description": "a Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -149,7 +148,7 @@
       "provision_ref": "s12",
       "section": "12",
       "title": "12. §",
-      "content": "12. § 1. melléklet a 2021. évi XXIII. törvényhez"
+      "content": "12. §"
     }
   ],
   "definitions": []

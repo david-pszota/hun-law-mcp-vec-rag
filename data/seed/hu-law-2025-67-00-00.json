@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi LXVII. törvény Magyarország versenyképességének javítása érdekében egyes törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-06-24",
   "url": "https://njt.hu/jogszabaly/2025-67-00-00",
-  "description": "Magyarország versenyképességének javítása érdekében egyes törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -305,7 +304,7 @@
       "provision_ref": "s50",
       "section": "50",
       "title": "50. §",
-      "content": "50. § (1) (2)"
+      "content": "50. §"
     },
     {
       "provision_ref": "s51",
@@ -1055,7 +1054,7 @@
       "provision_ref": "s175",
       "section": "175",
       "title": "175. §",
-      "content": "175. § (1) (2) (3) (4)"
+      "content": "175. §"
     },
     {
       "provision_ref": "s176",
@@ -1601,7 +1600,7 @@
       "provision_ref": "s266",
       "section": "266",
       "title": "266. §",
-      "content": "266. § E törvény 65. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént. 1. melléklet a 2025. évi LXVII. törvényhez 1."
+      "content": "266. § E törvény 65. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént."
     }
   ],
   "definitions": []

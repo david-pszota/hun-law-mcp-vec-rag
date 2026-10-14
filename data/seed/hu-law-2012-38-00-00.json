@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2012. évi XXXVIII. törvény a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2012-04-28",
   "url": "https://njt.hu/jogszabaly/2012-38-00-00",
-  "description": "a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -396,6 +395,12 @@
       "section": "55",
       "title": "55. §",
       "content": "55. §"
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "56. §",
+      "content": "56. §"
     }
   ],
   "definitions": [

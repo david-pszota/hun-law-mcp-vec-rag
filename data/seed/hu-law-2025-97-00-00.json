@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi XCVII. törvény az agrárminiszter feladatkörét érintő törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-12-24",
   "url": "https://njt.hu/jogszabaly/2025-97-00-00",
-  "description": "az agrárminiszter feladatkörét érintő törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -113,7 +112,7 @@
       "provision_ref": "s18",
       "section": "18",
       "title": "18. §",
-      "content": "18. § A Vtv. a) b) c) d) e) f) g) h) i) j) k) lép."
+      "content": "18. §"
     },
     {
       "provision_ref": "s19",
@@ -491,7 +490,7 @@
       "provision_ref": "s81",
       "section": "81",
       "title": "81. §",
-      "content": "81. § (1) (2)"
+      "content": "81. §"
     },
     {
       "provision_ref": "s82",
@@ -726,6 +725,12 @@
       "section": "120",
       "title": "120. §",
       "content": "120. § (1) A 4. alcím, a 37. § és a 43. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül. (2) A 7. alcím, a 71. §, a 76–78. §-a, a 87. §, a 90. §, a 107. §, a 108. §, a 110. § és a 17. alcím az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül. (3) A 91. §, a 94. § és a 96. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül. (4) A 100. § az Alaptörvény 38. cikk (6) bekezdése és az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül. (5) A 101. §, a 102. §, a 13. alcím, valamint a 4. és 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s121",
+      "section": "121",
+      "title": "121. §",
+      "content": "121. § A 16. alcím a borokra, a szeszes italokra és a mezőgazdasági termékekre vonatkozó földrajzi árujelzőkről, valamint a hagyományos különleges termékekről és a mezőgazdasági termékek minőségére utaló választható kifejezésekről, az 1308/2013/EU, az (EU) 2019/787 és az (EU) 2019/1753 rendelet módosításáról, továbbá az 1151/2012/EU rendelet hatályon kívül helyezéséről szóló, 2024. április 11-i (EU) 2024/1143 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg."
     }
   ],
   "definitions": []

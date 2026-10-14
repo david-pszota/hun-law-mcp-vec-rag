@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi X. törvény a Budapesti Gazdasági Egyetemért Alapítványról, a Budapesti Gazdasági Egyetemért Alapítvány és a Budapesti Gazdasági Egyetem részére történő vagyonjuttatásról",
   "status": "in_force",
-  "in_force_date": "2021-05-01",
   "url": "https://njt.hu/jogszabaly/2021-10-00-00",
-  "description": "a Budapesti Gazdasági Egyetemért Alapítványról, a Budapesti Gazdasági Egyetemért Alapítvány és a Budapesti Gazdasági Egyetem részére történő vagyonjuttatásról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -59,7 +58,7 @@
       "provision_ref": "s9",
       "section": "9",
       "title": "9. §",
-      "content": "9. § 1. melléklet a 2021. évi X. törvényhez"
+      "content": "9. §"
     }
   ],
   "definitions": []

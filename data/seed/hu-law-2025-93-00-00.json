@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2025. évi XCIII. törvény a vállalkozói adminisztratív terhek csökkentésére irányuló egyes törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2025-12-17",
   "url": "https://njt.hu/jogszabaly/2025-93-00-00",
-  "description": "a vállalkozói adminisztratív terhek csökkentésére irányuló egyes törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -65,7 +64,7 @@
       "provision_ref": "s10",
       "section": "10",
       "title": "10. §",
-      "content": "10. § (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)"
+      "content": "10. §"
     },
     {
       "provision_ref": "s11",
@@ -77,7 +76,7 @@
       "provision_ref": "s12",
       "section": "12",
       "title": "12. §",
-      "content": "12. § (1) (2)"
+      "content": "12. §"
     },
     {
       "provision_ref": "s13",
@@ -251,7 +250,7 @@
       "provision_ref": "s41",
       "section": "41",
       "title": "41. §",
-      "content": "41. § (1) (2) (3) (4) (5) (6) (7) (8) (9) (10)"
+      "content": "41. §"
     },
     {
       "provision_ref": "s42",
@@ -318,6 +317,12 @@
       "section": "52",
       "title": "52. §",
       "content": "52. § A 38. §, a 39. § a)–c) pontja az Alaptörvény 23. cikke alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "53. §",
+      "content": "53. § A 23. alcím a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja."
     }
   ],
   "definitions": []

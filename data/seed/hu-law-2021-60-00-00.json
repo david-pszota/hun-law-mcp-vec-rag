@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2021. évi LX. törvény egyes agrártárgyú törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2021-06-05",
   "url": "https://njt.hu/jogszabaly/2021-60-00-00",
-  "description": "egyes agrártárgyú törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -870,6 +869,12 @@
       "section": "144",
       "title": "144. §",
       "content": "144. § E törvény 81. és 82. §-a az Alaptörvény 38. cikk (1) bekezdése, 21. alcíme az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül."
+    },
+    {
+      "provision_ref": "s145",
+      "section": "145",
+      "title": "145. §",
+      "content": "145. § E törvény 18. §-a az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) és az Európai Mezőgazdasági Garanciaalapból (EMGA) 2021-ben és 2022-ben nyújtandó támogatásokra vonatkozó egyes átmeneti rendelkezések megállapításáról és az 1305/2013/EU, az 1306/2013/EU és az 1307/2013/EU rendeletnek a források és a 2021-ben és 2022-ben való alkalmazás tekintetében,valamint az 1308/2013/EU rendeletnek a források és az ilyen támogatások 2021-re és 2022-re vonatkozó elosztása tekintetében történő módosításáról szóló, 2020. december 23-i 2020/2220 európai parlament és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg."
     }
   ],
   "definitions": []

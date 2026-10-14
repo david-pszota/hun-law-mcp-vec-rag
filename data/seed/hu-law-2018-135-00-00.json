@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2018. évi CXXXV. törvény a sportról szóló 2004. évi I. törvény módosításáról",
   "status": "in_force",
-  "in_force_date": "2019-01-01",
   "url": "https://njt.hu/jogszabaly/2018-135-00-00",
-  "description": "a sportról szóló 2004. évi I. törvény módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -300,6 +299,12 @@
       "section": "49",
       "title": "49. §",
       "content": "49. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – 2019. január 1-jén lép hatályba. (2) Az 1. §, a 2. § (1) bekezdése, a 40. §, a 41. §, a 44. § (1) bekezdése, a 48. § (2) bekezdése 2019. július 1-jén lép hatályba."
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "50. §",
+      "content": "50. § E törvény 3. § (2) bekezdése az Alaptörvény I) cikk (4) bekezdése alapján sarkalatosnak minősül."
     }
   ],
   "definitions": []

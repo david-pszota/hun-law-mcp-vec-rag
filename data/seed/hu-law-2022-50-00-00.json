@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2022. évi L. törvény Magyarország biztonságát szolgáló egyes törvények módosításáról",
   "status": "in_force",
-  "in_force_date": "2022-12-03",
   "url": "https://njt.hu/jogszabaly/2022-50-00-00",
-  "description": "Magyarország biztonságát szolgáló egyes törvények módosításáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -1428,6 +1427,12 @@
       "section": "237",
       "title": "237. §",
       "content": "237. § A 194. §, a 199. § és a 202. § az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg."
+    },
+    {
+      "provision_ref": "s238",
+      "section": "238",
+      "title": "238. §",
+      "content": "238. § A 195. §, a 200. § és a 203. § a) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a határok és a vízumügy területén, továbbá a 767/2008/EK, az (EU) 2016/399, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1726 és az (EU) 2018/1861 európai parlamenti és tanácsi rendelet, valamint a 2004/512/EK és a 2008/633/IB tanácsi határozat módosításáról szóló, 2019. május 20-i (EU) 2019/817 európai parlamenti és tanácsi rendelet, valamint b) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg."
     }
   ],
   "definitions": []

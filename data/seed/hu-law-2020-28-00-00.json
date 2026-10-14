@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2020. évi XXVIII. törvény az egyházak szociális és gyermekvédelmi ellátások terén betöltött szerepének megerősítéséről",
   "status": "in_force",
-  "in_force_date": "2020-08-01",
   "url": "https://njt.hu/jogszabaly/2020-28-00-00",
-  "description": "az egyházak szociális és gyermekvédelmi ellátások terén betöltött szerepének megerősítéséről",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -89,7 +88,7 @@
       "provision_ref": "s14",
       "section": "14",
       "title": "14. §",
-      "content": "14. § 1. melléklet a 2020. évi XXVIII. törvényhez"
+      "content": "14. §"
     }
   ],
   "definitions": [

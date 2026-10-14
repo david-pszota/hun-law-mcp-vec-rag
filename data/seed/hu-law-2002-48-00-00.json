@@ -3,9 +3,8 @@
   "type": "statute",
   "title": "2002. évi XLVIII. törvény az Országos Rádió és Televízió Testület 2001. évi költségvetésének végrehajtásáról",
   "status": "in_force",
-  "in_force_date": "2002-12-15",
   "url": "https://njt.hu/jogszabaly/2002-48-00-00",
-  "description": "az Országos Rádió és Televízió Testület 2001. évi költségvetésének végrehajtásáról",
+  "description": "Official Hungarian statute text from Nemzeti Jogszabalytar (njt.hu).",
   "provisions": [
     {
       "provision_ref": "s1",
@@ -47,7 +46,7 @@
       "provision_ref": "s7",
       "section": "7",
       "title": "7. §",
-      "content": "7. § Ez a törvény a kihirdetését követő 8. napon lép hatályba. 1. számú melléklet a 2002. évi XLVIII. törvényhez Az ORTT 2001. évi költségvetése végrehajtásának mérlege Bevételek Millió forintban Megnevezés Eredeti előirányzat Módosított előirányzat 2001. évi teljesítés Törvény szerinti bevételek 881,179 881,179 881,179 2000. évi pénzmaradvány (pénzforgalom nélküli bevétel) 38,792 38,792 Működési és felhalmozási bevételek 7,100 9,874 9,874 Műsorszolgáltatási Alaptól átvett pénzeszköz 33,637 33,637 Képzési céltámogatás 0,636 0,636 Összesen 888,279 964,118 964,118 2. számú melléklet a 2002. évi XLVIII. törvényhez Az ORTT 2001. évi költségvetése végrehajtásának mérlege Kiadások Millió forintban Előirányzat neve Eredeti előirányzat Módosított előirányzat Teljesítés Személyi juttatások 414,553 461,662 457,670 Munkaadókat terhelő járulékok 139,269 158,080 156,948 Dologi kiadások 262,207 243,418 222,336 Felhalmozási kiadások 72,250 100,958 97,771 Összesen 888,279 964,118 934,725 3. számú melléklet a 2002. évi XLVIII. törvényhez"
+      "content": "7. § Ez a törvény a kihirdetését követő 8. napon lép hatályba. Az ORTT 2001. évi költségvetése végrehajtásának mérlege Bevételek Millió forintban Az ORTT 2001. évi költségvetése végrehajtásának mérlege Kiadások Millió forintban * 2000. évben a Műsorszolgáltatási Alap által tervezett előirányzatok. * 2000. évben a Műsorszolgáltatási Alap által tervezett előirányzatok."
     }
   ],
   "definitions": []
